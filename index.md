@@ -1,6 +1,6 @@
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-# Open Analytics Template
+# Digital Health Insights
 
 {% include update.html %}
 
