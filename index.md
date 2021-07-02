@@ -9,13 +9,13 @@
   <p>This project is currently in development, for more information contact: mary.amanuel@nhsx.nhs.uk</p>
 </div>
 
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
 {% include update.html %}
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-## Project currently in development
-
-## Example Plotly Chart
+### Example Plotly Chart
 
 {% include plotly_obj.html %}
 
