@@ -2,6 +2,12 @@
 
 # Digital Health Insights 
 
+<div class="nhsuk-warning-callout">
+  <h3 class="nhsuk-warning-callout__label">
+    Important<span class="nhsuk-u-visually-hidden">:</span>
+  </h3>
+  <p>This project is currently in development, for more information contact: mary.amanuel@nhsx.nhs.uk</p>
+</div>
 
 {% include update.html %}
 
@@ -15,6 +21,4 @@
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<button class="nhsuk-button" type="submit">
-  Email me
-</button>
+
