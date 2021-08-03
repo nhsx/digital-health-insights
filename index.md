@@ -10,6 +10,8 @@ Template for end-to-end open source analytics: python, [plotly](https://plotly.c
 
 ## Plotly Chart
 
+## Remote appointments are now as common as in person appointments
+
 {% include remote_appts.html %}
 
 {% include online_activities_all.html %}
