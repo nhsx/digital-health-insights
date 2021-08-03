@@ -10,6 +10,12 @@ Template for end-to-end open source analytics: python, [plotly](https://plotly.c
 
 ## Plotly Chart
 
-{% include plotly_obj.html %}
+{% include remote_appts.html %}
+
+{% include online_activities_all.html %}
+
+{% include online_activities_age.html %}
+
+{% include ease_of_use.html %}
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
