@@ -15,12 +15,15 @@
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<div class="nhsuk-card__heading">Key Findings
-
+<div class="nhsuk-card">
+<div class="nhsuk-card__content">
+<h3 class="nhsuk-card__heading">Key Findings</h3>
+<p class="nhsuk-card__description">
 - Remote appointments are now as common as in person appointments, bit more info...
 - Two
 - Three
-
+</p>
+</div>
 </div>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
