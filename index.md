@@ -7,7 +7,9 @@
   <p><b>Pre-publication:</b> This project is currently in development.  For more information contact: mary.amanuel@nhsx.nhs.uk</p>
 </div>
 
-# Digital Health Insights: GP Patient Survey
+# Digital Health Insights:
+
+## What does the 2021 GP patient survey tell us about digital access
 
 {% include update.html %}
 
