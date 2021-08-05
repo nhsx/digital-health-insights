@@ -1,12 +1,14 @@
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-# Digital Health Insights 
+# Digital Health Insights
+
+Pre-publication
 
 <div class="nhsuk-warning-callout">
   <h3 class="nhsuk-warning-callout__label">
     Important<span class="nhsuk-u-visually-hidden">:</span>
   </h3>
-  <p>This project is currently in development.  For more information contact: mary.amanuel@nhsx.nhs.uk</p>
+  <p><b>Pre-publication:</b> This project is currently in development.  For more information contact: mary.amanuel@nhsx.nhs.uk</p>
 </div>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
@@ -36,5 +38,3 @@
 <p><b>Figure 4.</b> The proportion of survey respondents aged 75 and over that found it easy use their GP practice's website to look for information or access services. Source: GP Patient Survey 2021.</p>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
-
-
