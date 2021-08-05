@@ -1,11 +1,5 @@
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-# GP Patient Survey
-
-{% include update.html %}
-
-<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
-
 <div class="nhsuk-warning-callout">
   <h3 class="nhsuk-warning-callout__label">
     Important<span class="nhsuk-u-visually-hidden">:</span>
@@ -13,15 +7,19 @@
   <p><b>Pre-publication:</b> This project is currently in development.  For more information contact: mary.amanuel@nhsx.nhs.uk</p>
 </div>
 
+# GP Patient Survey
+
+{% include update.html %}
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 <div class="nhsuk-card">
 <div class="nhsuk-card__content">
 <h3 class="nhsuk-card__heading">Key Findings</h3>
 <p class="nhsuk-card__description">
-- Remote appointments are now as common as in person appointments, bit more info...
-- Two
-- Three
+Remote appointments are now as common as in person appointments, bit more info...
 </p>
 </div>
 </div>
