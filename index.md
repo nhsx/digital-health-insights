@@ -15,11 +15,13 @@
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-## Key Findings
+<div class="nhsuk-card__heading">Key Findings
 
 - Remote appointments are now as common as in person appointments, bit more info...
 - Two
 - Three
+
+</div>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
