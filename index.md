@@ -19,7 +19,17 @@
 ## What can we learn about GP Patient Survey teach us about access to digital health services in 2021?
 
 <!-- {% include update.html %}-->
-
+ Our analysis aims to shed light on the use of and barriers to accessing online GP services in England.
+ 
+<div class="nhsuk-action-link">
+  <a class="nhsuk-action-link__link" href="https://gp-patient.co.uk/">
+    <svg class="nhsuk-icon nhsuk-icon__arrow-right-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M0 0h24v24H0z" fill="none"></path>
+      <path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
+    </svg>
+    <span class="nhsuk-action-link__text">Explore the GP Patient Survey 2021</span>
+  </a>
+</div>
 
 <div class="nhsuk-care-card nhsuk-care-card--primary">
   <div class="nhsuk-care-card__heading-container">
@@ -85,6 +95,9 @@ Indeed, in 2021, 44% of patients have used at least one GP online service. Of th
 
 #### On average, patients with long term health conditions used online GP services 13% more than patients without a long term condition.
 
+{% include online_activities_ltc.html %}
+<p><b>Figure 3.</b> The proportion of online service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
+
 Patients with long term conditions were also more than twice as likely to order repeat prescriptions than patients without long term conditions, this particularly noticeable for patients with mental health conditions (40%) or another-long term health condition (40%)
 
 <div class="nhsuk-inset-text">
@@ -132,9 +145,6 @@ Overall, patients are finding it 4% harder to use GP practice websites since 201
 
 While there is a 3% increase in 16-24s saying they find it easy to use their GP practises website to look for information or access services. Since 2018, there has been an 8% decrease for patients over 75 and a 5% decrease for patients with long term health conditions, saying it is easy to use their GP practises website to look for information or access services.
 
-{% include online_activities_ltc.html %}
-
-<p><b>Figure 3.</b> The proportion of online service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 However, of all these groups, patients with a learning disability are twice as likely to find GP practice websites ‘Not at all easy” to use than the national average. 
 
@@ -143,15 +153,5 @@ However, of all these groups, patients with a learning disability are twice as l
 
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
-
-<div class="nhsuk-action-link">
-  <a class="nhsuk-action-link__link" href="https://gp-patient.co.uk/">
-    <svg class="nhsuk-icon nhsuk-icon__arrow-right-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
-      <path d="M0 0h24v24H0z" fill="none"></path>
-      <path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
-    </svg>
-    <span class="nhsuk-action-link__text">Explore the GP Patient Survey 2021</span>
-  </a>
-</div>
 
 fin
