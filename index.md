@@ -9,7 +9,7 @@
 
 <td class="nhsuk-table__cell">
           <strong class="nhsuk-tag">
-  <p style="font-size: 2vw;">Digital Health Insight</p>
+  </span>Digital Health Insight</span></h3>
 </strong>
 
   </td>
@@ -31,7 +31,7 @@
   <ul>
       <li>F1</li>
       <li>F2</li>
-      <li>f3</a></li>
+      <li>f3</li>
       <li>F4</li>
     </ul>
     <p></p>
