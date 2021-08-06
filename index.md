@@ -64,7 +64,7 @@ Appointment types have balanced out since the first national lockdown, with the 
 
 #### How do patients feel about remote appointments? 
 
-Research from the Office for National Statistics found that 64% of people said they would be 'comfortable' or 'very comfortable' attending an online appointment with a health professional in August 2020. However,  patients over 70 (53%) or with an underlying health condition* (57%) weren't as comfortable with online appointments.
+Research from the Office for National Statistics found that, in August 2020, 64% of people said they would be 'comfortable' or 'very comfortable' attending an online appointment with a health professional. However,  patients over 70 (53%) or with an underlying health condition* (57%) weren't as comfortable with online appointments.
 
 While most patients would be comfortable with an online appointment, 64% of UK patients still would prefer in-person consultations in the future. 
 
