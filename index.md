@@ -137,7 +137,7 @@ Furthermore, a lack of digital skills among the over 75+ age group (79%) was the
 #### Accessing information on GP practice websites is getting harder year on year
 
 {% include ease_of_use.html %}
-<p><b>Figure 4.</b> <em>The proportion of survey respondents aged 75 and over that found it easy use their GP practice's website to look for information or access services. Source: GP Patient Survey 2021.</em></p>
+<p><b>Figure 4.</b> The proportion of survey respondents aged 75 and over that found it easy use their GP practice's website to look for information or access services. Source: GP Patient Survey 2021.</p>
 
 Overall, patients are finding it 4% harder to use GP practice websites since 2018. However, some groups are finding these websites harder to use than others. 
 
