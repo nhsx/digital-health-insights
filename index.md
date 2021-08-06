@@ -77,6 +77,11 @@ The Lloyds UK Consumer Digital Index 2021 -- the UK's largest measure of digital
 
 Indeed, in 2021, 44% of patients have used at least one GP online service. 
 
+<div class="nhsuk-inset-text">
+                  <span class="nhsuk-u-visually-hidden">Information: </span>
+                  <p>56% of all patients surveyed have not used any GP online services</p>
+                </div>
+                
 Of those who used an online GP patient service, ordering repeat prescriptions was the most popular activity (26%), followed by booking an appointment online (19%).
 
 
@@ -123,22 +128,15 @@ Overall, patients are finding it 4% harder to use GP practice websites since 201
 
 While there is a 3% increase in 16-24s saying they find it easy to use their GP practises website to look for information or access services. Since 2018, there has been an 8% decrease for patients over 75 and a 5% decrease for patients with long term health conditions, saying it is easy to use their GP practises website to look for information or access services.
 
+{% include online_activities_ltc.html %}
+
+<p><b>Figure 3.</b> The proportion of online service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
+
 However, of all these groups, patients with a learning disability are twice as likely to find GP practice websites ‘Not at all easy” to use than the national average. 
 
 
 
-<div class="nhsuk-inset-text">
-                  <span class="nhsuk-u-visually-hidden">Information: </span>
-                  <p>In order to help identify trends in the data over time and account for seasonal variation, a 3-month rolling average has been calculated.</p>
-                </div>
 
-#### Long-term conditions and online GP services?
-
-text
-
-{% include online_activities_ltc.html %}
-
-<p><b>Figure 3.</b> The proportion of online service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
