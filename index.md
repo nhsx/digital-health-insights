@@ -59,6 +59,8 @@ Redeveloped in 2021, the GP Patient Survey — a national survey of patients’ 
 
 Our analysis aims to shed light on the use of and barriers to accessing online GP services in England.
 
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
 ### Appointment Types
 
 #### Remote appointments are now as common as in person appointments
@@ -80,6 +82,8 @@ Research from the Office for National Statistics found that, in August 2020, 64%
 While most patients would be comfortable with an online appointment, 64% of UK patients still would prefer in-person consultations in the future. 
 
 *ONS Glossary of what is considered an underlying health condition. This may be different to how the GP Patient Survey 2021 defines a long term health condition
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 ### Online GP services
 
@@ -125,6 +129,8 @@ But why aren't patients aged 75 and over using online GP services? In a recent r
 
 Furthermore, a lack of digital skills among the over 75+ age group (79%) was the most common reason for not using the internet. The next most common reasons were a lack of trust in the internet (39%) and not having good enough access to equipment and/or broadband (30%).
 
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
 ### GP practice websites
 
 #### Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others
@@ -139,10 +145,10 @@ While there is a 3% increase in 16-24s saying they find it easy to use their GP 
 
 However, of all these groups, patients with a learning disability are twice as likely to find GP practice websites ‘Not at all easy” to use than the national average. 
 
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 #### Design with the furthest in mind
 
 
-<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 fin
