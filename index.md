@@ -29,10 +29,10 @@
   <div class="nhsuk-care-card__content">
   
   <ul>
-      <li>F1</li>
-      <li>F2</li>
-      <li>f3</li>
-      <li>F4</li>
+      <li>Remote appointments are now as common as face-to-face appointments. While most patients are comfortable with remote appointments, many still prefer face-to-face appointment consultations in the future</li>
+      <li>Over 44% of patients have used an GP online service in the last 12 months, while 56% haven’t used any. Patients will long term health conditions are more likely than average to use online GP services</li>
+      <li>Of all age groups, patients aged 75 and over are least likely to use online GP services</li>
+      <li>Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others</li>
     </ul>
     <p></p>
     
