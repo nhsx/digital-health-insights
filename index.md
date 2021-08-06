@@ -82,7 +82,7 @@ text
 
 ### Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others
 
-text
+text text
 
 {% include ease_of_use.html %}
 
