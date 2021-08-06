@@ -19,7 +19,8 @@
 ## What can we learn about GP Patient Survey teach us about access to digital health services in 2021?
 
 <!-- {% include update.html %}-->
-Mary Amanuel -  Data Analyst, NHSX | Craig Shenton  - Data Engineer, NHSX
+NHSX | Mary Amanuel -  Data Analyst, Craig Shenton  - Data Engineer\  
+
 6th August 2021 
 
 <div class="nhsuk-action-link">
@@ -63,17 +64,14 @@ Our analysis aims to shed light on the use of and barriers to accessing online G
 
 ### Remote appointments are now as common as in person appointments
 
+{% include remote_appts.html %}
+<p><strong>Figure 1.</strong> Proportion of appointment types betweeen survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.</p>
+
 The rise of remote appointments is perhaps the most striking change to GP practice since the pandemic. 
 
 For decades, face-to-face appointments dominated, making up 90% of appointment types. However, for the first time in history, more remote appointments took place in April 2020 than face-to-face appointments. 
 
 Appointment types have balanced out since the first national lockdown, with the share of remote appointments increasing to almost 50% of appointment types in 2021.
-
-
-
-{% include remote_appts.html %}
-
-<p><strong>Figure 1.</strong> Proportion of appointment types betweeen survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.</p>
 
 
 #### How do patients feel about remote appointments? 
@@ -87,15 +85,13 @@ While most patients would be comfortable with an online appointment, 64% of UK p
 
 ### 44% of patients have used an GP online service in the last 12 months
 
+{% include online_activities_all.html %}
+<p><b>Figure 2.</b> The proportion of different online service use, between survey respondents that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
+
 The Lloyds UK Consumer Digital Index 2021 -- the UK's largest measure of digital capability and financial behaviour - found that more consumers use digital tools and websites to manage their physical (37%) and mental health (25%) this year. This is compared with 89% for banking and 60% for accessing local council information.
 
 Indeed, in 2021, 44% of patients have used at least one GP online service. Of those who used an online GP patient service, ordering repeat prescriptions was the most popular activity (26%), followed by booking an appointment online (19%).
 
-
-
-{% include online_activities_all.html %}
-
-<p><b>Figure 2.</b> The proportion of different online service use, between survey respondents that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 #### On average, patients with long term health conditions used online GP services 13% more than patients without a long term condition.
 
@@ -112,16 +108,14 @@ Patients with long term conditions were also more than twice as likely to order 
 
 #### The oldest and youngest age groups were least likely to use online GP services, but for different reasons.
 
+{% include online_activities_age.html %}
+<p><b>Figure 3.</b> The proportion of online service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 Over 75s are 12% less likely to use online GP services, with 68% not using any online GP service in the last 12 months.
 
 Interestingly, 16-24s were second least likely to use online GP services, with only 41% using an online GP service in the last 12 months. However, morbidity increases with age, so 16-24s are less likely to need GP services than older age groups.
 
 
-{% include online_activities_age.html %}
-
-
-<p><b>Figure 3.</b> The proportion of online service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 #### Why aren’t 75+ using online GP services?
 
@@ -135,17 +129,12 @@ A combination of factors contributes to patients aged 75 and over under-using GP
 Furthermore, a lack of digital skills among the over 75+ age group (79%) was the most common reason for not using the internet. The next most common reasons were a lack of trust in the internet (39%) and not having good enough access to equipment and/or broadband (30%).
 
 
-
-
-
-
 ### Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others
 
-Overall, patients are finding it 4% harder to use GP practice websites since 2018. However, some groups are finding these websites harder to use than others. 
-
 {% include ease_of_use.html %}
-
 <p><b>Figure 4.</b> <em>The proportion of survey respondents aged 75 and over that found it easy use their GP practice's website to look for information or access services. Source: GP Patient Survey 2021.</em></p>
+
+Overall, patients are finding it 4% harder to use GP practice websites since 2018. However, some groups are finding these websites harder to use than others. 
 
 While there is a 3% increase in 16-24s saying they find it easy to use their GP practises website to look for information or access services. Since 2018, there has been an 8% decrease for patients over 75 and a 5% decrease for patients with long term health conditions, saying it is easy to use their GP practises website to look for information or access services.
 
