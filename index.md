@@ -20,7 +20,6 @@
 
 <!-- {% include update.html %}-->
 
-
 <div class="nhsuk-care-card nhsuk-care-card--primary">
   <div class="nhsuk-care-card__heading-container">
     <h3 class="nhsuk-care-card__heading"><span role="text"><span class="nhsuk-u-visually-hidden">Non-urgent advice: </span>Key findings</span></h3>
@@ -41,35 +40,29 @@
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-
 Patients have seen a fundamental shift in how general practices deliver primary care services. As GPs adapt to coronavirus pandemic and national lockdowns, access to quality digital health services has proved more important now than ever.
 
 Redeveloped in 2021, the GP Patient Survey — a national survey of patients’ experiences of general practice — reflects the changes to primary care services due to the COVID-19 pandemic. Our analysis aims to shed light on the use of and barriers to accessing online GP services in England.
 
-
 ### Remote appointments are now as common as in person appointments
 
-The rise of remote appointments is perhaps the most striking change to GP practice since the pandemic. 
+The rise of remote appointments is perhaps the most striking change to GP practice since the pandemic.
 
-For decades, face-to-face appointments dominated, making up 90% of appointment types. However, for the first time in history, more remote appointments took place in April 2020 than face-to-face appointments. 
+For decades, face-to-face appointments dominated, making up 90% of appointment types. However, for the first time in history, more remote appointments took place in April 2020 than face-to-face appointments.
 
 Appointment types have balanced out since the first national lockdown, with the share of remote appointments increasing to almost 50% of appointment types in 2021.
-
-
 
 {% include remote_appts.html %}
 
 <p><strong>Figure 1.</strong> Proportion of appointment types betweeen survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.</p>
 
+#### How do patients feel about remote appointments?
 
-#### How do patients feel about remote appointments? 
+Research from the Office for National Statistics found that 64% of people said they would be 'comfortable' or 'very comfortable' attending an online appointment with a health professional in August 2020. However, patients over 70 (53%) or with an underlying health condition\* (57%) weren't as comfortable with online appointments.
 
-Research from the Office for National Statistics found that 64% of people said they would be 'comfortable' or 'very comfortable' attending an online appointment with a health professional in August 2020. However,  patients over 70 (53%) or with an underlying health condition* (57%) weren't as comfortable with online appointments.
+While most patients would be comfortable with an online appointment, 64% of UK patients still would prefer in-person consultations in the future.
 
-While most patients would be comfortable with an online appointment, 64% of UK patients still would prefer in-person consultations in the future. 
-
-*ONS Glossary of what is considered an underlying health condition. This may be different to how the GP Patient Survey 2021 defines a long term health condition
-
+\*ONS Glossary of what is considered an underlying health condition. This may be different to how the GP Patient Survey 2021 defines a long term health condition
 
 ### 44% of patients have used an GP online service in the last 12 months
 
@@ -86,6 +79,14 @@ text
 {% include online_activities_age.html %}
 
 <p><b>Figure 3.</b> The proportion of different online service use, between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
+
+#### Long-term conditions and online GP services?
+
+text
+
+{% include online_activities_ltc.html %}
+
+<p><b>Figure 3.</b> The proportion of online service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 ### Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others
 
