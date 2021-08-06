@@ -7,7 +7,12 @@
   <p><b>Pre-publication:</b> This project is currently in development.  For more information contact: mary.amanuel@nhsx.nhs.uk</p>
 </div>
 
-# Digital Health Insights:
+<td class="nhsuk-table__cell">
+          <strong class="nhsuk-tag">
+  Digital Health Insights
+</strong>
+
+  </td>
 
 ## What does the 2021 GP patient survey tell us about digital access
 
@@ -17,13 +22,22 @@
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<div class="nhsuk-card">
-<div class="nhsuk-card__content">
-<h3 class="nhsuk-card__heading">Key Findings</h3>
-<p class="nhsuk-card__description">
-Remote appointments are now as common as in person appointments, bit more info...
-</p>
-</div>
+<div class="nhsuk-care-card nhsuk-care-card--primary">
+  <div class="nhsuk-care-card__heading-container">
+    <h3 class="nhsuk-care-card__heading"><span role="text"><span class="nhsuk-u-visually-hidden">Non-urgent advice: </span>Speak to a GP if:</span></h3>
+    <span class="nhsuk-care-card__arrow" aria-hidden="true"></span>
+  </div>
+  <div class="nhsuk-care-card__content">
+  
+  <ul>
+      <li>Remote appointments are now as common as face-to-face appointments. While most patients are comfortable with remote appointments, many still prefer face-to-face appointment consultations in the future. </li>
+      <li>tOver 44% of patients have used an GP online service in the last 12 months, while 56% haven’t used any. Patients will long term health conditions are more likely than average to use online GP services/li>
+      <li>yPatients aged 75 and over are least likely to use online GP services</a></li>
+      <li>yLooking through GP practises website to look for information or access services is getting easier for some groups, but harder for others</li>
+    </ul>
+  
+    
+  </div>
 </div>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
