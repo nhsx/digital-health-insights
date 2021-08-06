@@ -42,7 +42,7 @@
       <li><b>Remote appointments are now as common as face-to-face appointments.</b> While most patients are comfortable with remote appointments, many still prefer face-to-face appointment consultations in the future</li>
       <li><b>Over 44% of patients have used an GP online service in the last 12 months, while 56% haven’t used any. </b> Patients will long term health conditions are more likely than average to use online GP services</li>
       <li><b>Patients aged 75 and over are least likely to use online GP services.</b>But this age group were much for likely to order repeat prescriptions than the national average </li>
-      <li> <b>Accessing information on GP practises website is getting harder. </b> Patients with a long term health conditions or aged 75 and over finding it particularly difficult </li>
+      <li> <b>Accessing information on GP practices website is getting harder. </b> Patients with a long term health conditions or aged 75 and over finding it particularly difficult </li>
     </ul>
     <p></p>
     
@@ -53,7 +53,7 @@
 
 #### Introduction 
 
-Patients have seen a fundamental shift in how general practices deliver primary care services. As GPs adapt to coronavirus pandemic and national lockdowns, access to quality digital health services has proved more important now than ever.
+As GPs adapt to coronavirus pandemic and national lockdowns, access to quality digital health services has proved more important now than ever.
 
 Redeveloped in 2021, the GP Patient Survey — a national survey of patients’ experiences of general practice — reflects the changes to primary care services due to the COVID-19 pandemic. 
 
@@ -81,7 +81,8 @@ Research from the Office for National Statistics found that, in August 2020, 64%
 
 While most patients would be comfortable with an online appointment, 64% of UK patients still would prefer in-person consultations in the future. 
 
-*ONS Glossary of what is considered an underlying health condition. This may be different to how the GP Patient Survey 2021 defines a long term health condition
+[*ONS Glossary of what is considered an underlying health condition. This may be different to how the GP Patient Survey 2021 defines a long term health condition](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary)
+
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -94,7 +95,7 @@ While most patients would be comfortable with an online appointment, 64% of UK p
 
 The Lloyds UK Consumer Digital Index 2021 -- the UK's largest measure of digital capability and financial behaviour - found that more consumers use digital tools and websites to manage their physical (37%) and mental health (25%) this year. This is compared with 89% for banking and 60% for accessing local council information.
 
-Indeed, in 2021, 44% of patients have used at least one GP online service. Of those who used an online GP patient service, ordering repeat prescriptions was the most popular activity (26%), followed by booking an appointment online (19%).
+Indeed, in 2021, 44% of patients have used at least one GP online service. Of those who used an online GP patient service, ordering repeat prescriptions was the most popular activity (38%), followed by booking an appointment online (27%).
 
 
 #### On average, patients with long term health conditions used online GP services 13% more than patients without a long term condition.
@@ -133,7 +134,7 @@ Furthermore, a lack of digital skills among the over 75+ age group (79%) was the
 
 ### GP practice websites
 
-#### Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others
+#### Accessing information on GP practice websites is getting harder year on year
 
 {% include ease_of_use.html %}
 <p><b>Figure 4.</b> <em>The proportion of survey respondents aged 75 and over that found it easy use their GP practice's website to look for information or access services. Source: GP Patient Survey 2021.</em></p>
@@ -149,6 +150,10 @@ However, of all these groups, patients with a learning disability are twice as l
 
 #### Design with the furthest in mind
 
+Patients have seen a fundamental shift in how general practices deliver primary care services. Online GP services such as remote appointments and ordering repeat prescriptions were uncommon a few years ago but are now the norm. 
+
+And yet — for reasons that need to be further investigated — some patients are still not accessing these services.
+
+Most significantly, the latest GP Patient Survey makes it clear that patients need to be more accessible online health services. Designing with the furthest in mind, promoting best practice accessibility standards, and inclusive service design could be good first steps in achieving this goal.
 
 
-fin
