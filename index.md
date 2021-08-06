@@ -41,8 +41,8 @@
   <ul>
       <li><b>Remote appointments are now as common as face-to-face appointments.</b> While most patients are comfortable with remote appointments, many still prefer face-to-face appointment consultations in the future</li>
       <li><b>Over 44% of patients have used an GP online service in the last 12 months, while 56% haven’t used any. </b> Patients will long term health conditions are more likely than average to use online GP services</li>
-      <li><b>Patients aged 75 and over are least likely to use online GP services</b> But this age group were much for likely to order repeat prescriptions than the national average </li>
-      <li> Accessing information on GP practises website is getting harder, with patients with a long term health conditona or ged 75 finding it partiularly difcuclt </li>
+      <li><b>Patients aged 75 and over are least likely to use online GP services.</b>But this age group were much for likely to order repeat prescriptions than the national average </li>
+      <li> <b>Accessing information on GP practises website is getting harder. </b> Patients with a long term health conditions or aged 75 and over finding it particularly difficult </li>
     </ul>
     <p></p>
     
