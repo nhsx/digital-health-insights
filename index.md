@@ -9,10 +9,13 @@
 
 <td class="nhsuk-table__cell">
           <strong class="nhsuk-tag">
-  Digital Health Insights
+  <p style="font-size:150%">Digital Health Insight</p>
 </strong>
 
   </td>
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
 
 ## What does the 2021 GP patient survey tell us about digital access
 
