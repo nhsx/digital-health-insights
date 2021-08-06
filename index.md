@@ -59,8 +59,9 @@ Redeveloped in 2021, the GP Patient Survey — a national survey of patients’ 
 
 Our analysis aims to shed light on the use of and barriers to accessing online GP services in England.
 
+### Appointment Types
 
-### Remote appointments are now as common as in person appointments
+#### Remote appointments are now as common as in person appointments
 
 {% include remote_appts.html %}
 <p><strong>Figure 1.</strong> Proportion of appointment types betweeen survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.</p>
@@ -80,8 +81,9 @@ While most patients would be comfortable with an online appointment, 64% of UK p
 
 *ONS Glossary of what is considered an underlying health condition. This may be different to how the GP Patient Survey 2021 defines a long term health condition
 
+### Online GP services
 
-### 44% of patients have used an GP online service in the last 12 months
+#### 44% of patients have used an GP online service in the last 12 months
 
 {% include online_activities_all.html %}
 <p><b>Figure 2.</b> The proportion of different online service use, between survey respondents that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
@@ -114,20 +116,18 @@ Over 75s are 12% less likely to use online GP services, with 68% not using any o
 Interestingly, 16-24s were second least likely to use online GP services, with only 41% using an online GP service in the last 12 months. However, morbidity increases with age, so 16-24s are less likely to need GP services than older age groups.
 
 
-
-#### Why aren’t 75+ using online GP services?
-
 <div class="nhsuk-inset-text">
                   <span class="nhsuk-u-visually-hidden">Information: </span>
                   <p>According to Ofcom's Digital Exclusion Survey, 18% of digitally excluded over 75s would be willing to go online to access health services.</p>
                 </div>
 
-A combination of factors contributes to patients aged 75 and over under-using GP online services. In a recent report on digital inclusion, Age UK found that 42% of over 75 do not use the internet.  
+But why aren't patients aged 75 and over using online GP services? In a recent report on digital inclusion, Age UK found that 42% of over 75 do not use the internet.  
 
 Furthermore, a lack of digital skills among the over 75+ age group (79%) was the most common reason for not using the internet. The next most common reasons were a lack of trust in the internet (39%) and not having good enough access to equipment and/or broadband (30%).
 
+### GP practice websites
 
-### Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others
+#### Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others
 
 {% include ease_of_use.html %}
 <p><b>Figure 4.</b> <em>The proportion of survey respondents aged 75 and over that found it easy use their GP practice's website to look for information or access services. Source: GP Patient Survey 2021.</em></p>
@@ -140,7 +140,7 @@ While there is a 3% increase in 16-24s saying they find it easy to use their GP 
 However, of all these groups, patients with a learning disability are twice as likely to find GP practice websites ‘Not at all easy” to use than the national average. 
 
 
-
+#### Design with the furthest in mind
 
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
