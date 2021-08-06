@@ -19,9 +19,7 @@
 ## What can we learn about GP Patient Survey teach us about access to digital health services in 2021?
 
 <!-- {% include update.html %}-->
-NHSX | Mary Amanuel -  Data Analyst, Craig Shenton  - Data Engineer\  
-
-6th August 2021 
+6th August 2021  | Mary Amanuel -  Data Analyst (NHSX), Craig Shenton  - Data Engineer (NHSX)
 
 <div class="nhsuk-action-link">
   <a class="nhsuk-action-link__link" href="https://gp-patient.co.uk/">
@@ -41,10 +39,10 @@ NHSX | Mary Amanuel -  Data Analyst, Craig Shenton  - Data Engineer\
   <div class="nhsuk-care-card__content">
   
   <ul>
-      <li>Remote appointments are now as common as face-to-face appointments. While most patients are comfortable with remote appointments, many still prefer face-to-face appointment consultations in the future</li>
-      <li>Over 44% of patients have used an GP online service in the last 12 months, while 56% haven’t used any. Patients will long term health conditions are more likely than average to use online GP services</li>
-      <li>Of all age groups, patients aged 75 and over are least likely to use online GP services</li>
-      <li>Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others</li>
+      <li><b>Remote appointments are now as common as face-to-face appointments.</b> While most patients are comfortable with remote appointments, many still prefer face-to-face appointment consultations in the future</li>
+      <li><b>Over 44% of patients have used an GP online service in the last 12 months, while 56% haven’t used any. </b> Patients will long term health conditions are more likely than average to use online GP services</li>
+      <li><b>Patients aged 75 and over are least likely to use online GP services</b> But this age group were much for likely to order repeat prescriptions than the national average </li>
+      <li> Accessing information on GP practises website is getting harder, with patients with a long term health conditona or ged 75 finding it partiularly difcuclt </li>
     </ul>
     <p></p>
     
