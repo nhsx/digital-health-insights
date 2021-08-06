@@ -51,10 +51,12 @@ Redeveloped in 2021, the GP Patient Survey — a national survey of patients’ 
 
 The rise of remote appointments is perhaps the most striking change to GP practice since the pandemic. 
 
-For decades, face-to-face appointments dominated, making up 90% of appointment types. However, for the first time in history, more remote appointments took place in April 2020 than face-to-face appointments. 
+For decades, face-to-face appointments dominated, making up 90% of appointment types. However, for the first time in history, more remote appointments took place in April 2020 than face-to-face appointments in 2021. 
 
 Appointment types have balanced out since the first national lockdown, with the share of remote appointments increasing to almost 50% of appointment types.
 
+
+<p><strong>Figure 1.</strong> Proportion of appointment types betweeen survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.</p>
 
 {% include remote_appts.html %}
 
@@ -64,7 +66,6 @@ While most patients would be comfortable with an online appointment, 64% of UK p
 
 *ONS Glossary of what is considered an underlying health condition. This may be different to how the GP Patient Survey 2021 defines a long term health condition
 
-<p><b>Figure 1.</b> Proportion of appointment types betweeen survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.</p>
 
 ### 44% of patients have used an GP online service in the last 12 months
 
