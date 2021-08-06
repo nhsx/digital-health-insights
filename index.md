@@ -38,7 +38,6 @@
   
     
   </div>
-</div>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
