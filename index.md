@@ -89,7 +89,7 @@ text
 
 {% include ease_of_use.html %}
 
-<p><b>Figure 4.</b> The proportion of survey respondents aged 75 and over that found it easy use their GP practice's website to look for information or access services. Source: GP Patient Survey 2021.</p>
+<p><b>Figure 4.</b> <em>The proportion of survey respondents aged 75 and over that found it easy use their GP practice's website to look for information or access services. Source: GP Patient Survey 2021.</em></p>
 
 <div class="nhsuk-inset-text">
                   <span class="nhsuk-u-visually-hidden">Information: </span>
