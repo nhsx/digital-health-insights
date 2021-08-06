@@ -75,14 +75,8 @@ While most patients would be comfortable with an online appointment, 64% of UK p
 
 The Lloyds UK Consumer Digital Index 2021 -- the UK's largest measure of digital capability and financial behaviour - found that more consumers use digital tools and websites to manage their physical (37%) and mental health (25%) this year. This is compared with 89% for banking and 60% for accessing local council information.
 
-Indeed, in 2021, 44% of patients have used at least one GP online service. 
+Indeed, in 2021, 44% of patients have used at least one GP online service. Of those who used an online GP patient service, ordering repeat prescriptions was the most popular activity (26%), followed by booking an appointment online (19%).
 
-<div class="nhsuk-inset-text">
-                  <span class="nhsuk-u-visually-hidden">Information: </span>
-                  <p>56% of all patients surveyed have not used any GP online services</p>
-                </div>
-                
-Of those who used an online GP patient service, ordering repeat prescriptions was the most popular activity (26%), followed by booking an appointment online (19%).
 
 
 {% include online_activities_all.html %}
@@ -93,7 +87,11 @@ Of those who used an online GP patient service, ordering repeat prescriptions wa
 
 Patients with long term conditions were also more than twice as likely to order repeat prescriptions than patients without long term conditions, this particularly noticeable for patients with mental health conditions (40%) or another-long term health condition (40%)
 
-Yet, online hasn't fully taken off. More than half (56%) of all patients surveyed have not used any GP online services.
+<div class="nhsuk-inset-text">
+                  <span class="nhsuk-u-visually-hidden">Information: </span>
+                  <p>Yet, online hasn't fully taken off. More than half (56%) of all patients surveyed have not used any GP online services.</p>
+                </div>
+
 
 #### The oldest and youngest age groups were least likely to use online GP services, but for different reasons.
 
@@ -110,11 +108,17 @@ Interestingly, 16-24s were second least likely to use online GP services, with o
 
 #### Why aren’t 75+ using online GP services?
 
+<div class="nhsuk-inset-text">
+                  <span class="nhsuk-u-visually-hidden">Information: </span>
+                  <p>According to Ofcom's Digital Exclusion Survey, 18% of digitally excluded over 75s would be willing to go online to access health services.</p>
+                </div>
+
 A combination of factors contributes to patients aged 75 and over under-using GP online services. In a recent report on digital inclusion, Age UK found that 42% of over 75 do not use the internet.  
 
 Furthermore, a lack of digital skills among the over 75+ age group (79%) was the most common reason for not using the internet. The next most common reasons were a lack of trust in the internet (39%) and not having good enough access to equipment and/or broadband (30%).
 
-According to Ofcom's Digital Exclusion Survey, 18% of digitally excluded over 75s would be willing to go online to access health services
+
+
 
 
 
