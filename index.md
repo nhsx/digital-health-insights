@@ -56,11 +56,14 @@ For decades, face-to-face appointments dominated, making up 90% of appointment t
 Appointment types have balanced out since the first national lockdown, with the share of remote appointments increasing to almost 50% of appointment types.
 
 
-<p><strong>Figure 1.</strong> Proportion of appointment types betweeen survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.</p>
 
 {% include remote_appts.html %}
 
-But how do patients feel about remote appointments? Research from the Office for National Statistics found that 64% of people said they would be 'comfortable' or 'very comfortable' attending an online appointment with a health professional in August 2020. However,  patients over 70 (53%) or with an underlying health condition* (57%) weren't as comfortable with online appointments.
+<p><strong>Figure 1.</strong> Proportion of appointment types betweeen survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.</p>
+
+### How do patients feel about remote appointments? 
+
+Research from the Office for National Statistics found that 64% of people said they would be 'comfortable' or 'very comfortable' attending an online appointment with a health professional in August 2020. However,  patients over 70 (53%) or with an underlying health condition* (57%) weren't as comfortable with online appointments.
 
 While most patients would be comfortable with an online appointment, 64% of UK patients still would prefer in-person consultations in the future. 
 
