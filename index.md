@@ -80,14 +80,6 @@ text
 
 <p><b>Figure 3.</b> The proportion of different online service use, between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
-#### Long-term conditions and online GP services?
-
-text
-
-{% include online_activities_ltc.html %}
-
-<p><b>Figure 3.</b> The proportion of online service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
-
 ### Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others
 
 text
