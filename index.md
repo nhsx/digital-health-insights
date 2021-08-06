@@ -15,11 +15,12 @@
   </td>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 
-## What does the 2021 GP patient survey tell us about digital access
+## What can we learn about GP Patient Survey teach us about access to digital health services in 2021?
 
-{% include update.html %}
+<!-- {% include update.html %}-->
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -29,18 +30,18 @@
 
 <div class="nhsuk-care-card nhsuk-care-card--primary">
   <div class="nhsuk-care-card__heading-container">
-    <h3 class="nhsuk-care-card__heading"><span role="text"><span class="nhsuk-u-visually-hidden">Non-urgent advice: </span>Speak to a GP if:</span></h3>
+    <h3 class="nhsuk-care-card__heading"><span role="text"><span class="nhsuk-u-visually-hidden">Non-urgent advice: </span>Key findings</span></h3>
     <span class="nhsuk-care-card__arrow" aria-hidden="true"></span>
   </div>
   <div class="nhsuk-care-card__content">
   
   <ul>
-      <li>you're not sure it's chickenpox</li>
-      <li>the skin around the blisters is red, hot or painful (signs of infection)</li>
-      <li>your child is <a href="https://www.nhs.uk">dehydrated</a></li>
-      <li>you're concerned about your child or they get worse</li>
+      <li>F1</li>
+      <li>F2</li>
+      <li>f3</a></li>
+      <li>F4</li>
     </ul>
-    <p>Tell the receptionist you think it's chickenpox before going in. They may recommend a special appointment time if other patients are at risk.</p>
+    <p></p>
     
   </div>
 </div>
@@ -53,11 +54,14 @@
       <path d="M0 0h24v24H0z" fill="none"></path>
       <path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
     </svg>
-    <span class="nhsuk-action-link__text">Find out how to build your own open analytics pipeline</span>
+    <span class="nhsuk-action-link__text">Explore the GP Patient Survey 2021</span>
   </a>
 </div>
 
-Introduction para
+Patients have seen a fundamental shift in how general practices deliver primary care services. As GPs adapt to coronavirus pandemic and national lockdowns, access to quality digital health services has proved more important now than ever.
+
+Redeveloped in 2021, the GP Patient Survey — a national survey of patients’ experiences of general practice — reflects the changes to primary care services due to the COVID-19 pandemic. Our analysis aims to shed light on the use of and barriers to accessing online GP services in England.
+
 
 ### Remote appointments are now as common as in person appointments
 
