@@ -19,8 +19,9 @@
 ## What can we learn about GP Patient Survey teach us about access to digital health services in 2021?
 
 <!-- {% include update.html %}-->
- Our analysis aims to shed light on the use of and barriers to accessing online GP services in England.
- 
+Mary Amanuel -  Data Analyst, NHSX | Craig Shenton  - Data Engineer, NHSX
+6th August 2021 
+
 <div class="nhsuk-action-link">
   <a class="nhsuk-action-link__link" href="https://gp-patient.co.uk/">
     <svg class="nhsuk-icon nhsuk-icon__arrow-right-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
@@ -51,10 +52,13 @@
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
+#### Introduction 
 
 Patients have seen a fundamental shift in how general practices deliver primary care services. As GPs adapt to coronavirus pandemic and national lockdowns, access to quality digital health services has proved more important now than ever.
 
-Redeveloped in 2021, the GP Patient Survey — a national survey of patients’ experiences of general practice — reflects the changes to primary care services due to the COVID-19 pandemic. Our analysis aims to shed light on the use of and barriers to accessing online GP services in England.
+Redeveloped in 2021, the GP Patient Survey — a national survey of patients’ experiences of general practice — reflects the changes to primary care services due to the COVID-19 pandemic. 
+
+Our analysis aims to shed light on the use of and barriers to accessing online GP services in England.
 
 
 ### Remote appointments are now as common as in person appointments
