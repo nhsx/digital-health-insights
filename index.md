@@ -61,7 +61,8 @@ Appointment types have balanced out since the first national lockdown, with the 
 
 <p><strong>Figure 1.</strong> Proportion of appointment types betweeen survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.</p>
 
-### How do patients feel about remote appointments? 
+
+#### How do patients feel about remote appointments? 
 
 Research from the Office for National Statistics found that 64% of people said they would be 'comfortable' or 'very comfortable' attending an online appointment with a health professional in August 2020. However,  patients over 70 (53%) or with an underlying health condition* (57%) weren't as comfortable with online appointments.
 
