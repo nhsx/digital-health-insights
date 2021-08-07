@@ -153,6 +153,6 @@ Patients have seen a fundamental shift in how general practices deliver primary 
 
 And yet, some barriers remain: more than half of patients haven’t used any online GP service in the last 12 months, more patients felt in-person appointments met their needs, and GP practices websites need to be more accessible.
 
-Moving forward, accessible, inclusive, and personalised healthcare services will be a solid foundation for digital transformation.
+Moving forward, accessible, inclusive, and personalised healthcare services will be solid foundations for digital transformation.
 
 
