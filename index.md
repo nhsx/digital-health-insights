@@ -21,7 +21,7 @@
 
 <!-- {% include update.html %}-->
 
-6th August 2021\
+6th August 2021 | 
 Mary Amanuel, Craig Shenton 
 
 <div class="nhsuk-action-link">
