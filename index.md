@@ -56,7 +56,7 @@ Mary Amanuel, Craig Shenton
 
 ### Introduction 
 
-Access to quality digital health services is more important now than ever. This year, [more consumers use digital tools and websites](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html) to manage their physical (37%) and mental health (25%) than in 2020. 
+As [more consumers use digital tools](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html) and websites to manage their physical (37%) and mental health (25%) in 2021, access to quality digital health services is crucial. 
 
 Given that 89% of consumers use digital tools for online banking and 60% for accessing local council information, there is great potential to expand digital health services in the UK.
 
