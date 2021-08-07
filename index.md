@@ -21,7 +21,8 @@
 
 <!-- {% include update.html %}-->
 
-6th August 2021 | Mary Amanuel, Craig Shenton 
+6th August 2021\
+Mary Amanuel, Craig Shenton 
 
 <div class="nhsuk-action-link">
   <a class="nhsuk-action-link__link" href="https://gp-patient.co.uk/">
