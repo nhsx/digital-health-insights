@@ -15,13 +15,13 @@
   </td>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+#### NHSX Analytics Unit
 
 ## What can the 2021 GP Patient Survey tell us about access to online general practice services?
 
 <!-- {% include update.html %}-->
 
-#### NHSX Analytics Unit\
-Mary Amanuel, Craig Shenton | 6th August 2021 
+6th August 2021 | Mary Amanuel, Craig Shenton 
 
 <div class="nhsuk-action-link">
   <a class="nhsuk-action-link__link" href="https://gp-patient.co.uk/">
