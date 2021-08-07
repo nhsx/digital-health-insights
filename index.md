@@ -16,7 +16,7 @@
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-# What can we learn about GP Patient Survey teach us about access to digital health services in 2021?
+## What can the 2021 GP Patient Survey tell us about access to online general practice services?
 
 <!-- {% include update.html %}-->
 NHSX Analytics Unit\ 
@@ -52,7 +52,7 @@ NHSX Analytics Unit\
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-## Introduction 
+### Introduction 
 
 Access to quality digital health services is more important now than ever. This year, [more consumers use digital tools and websites](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html) to manage their physical (37%) and mental health (25%) than in 2020. 
 
@@ -63,9 +63,9 @@ Our analysis builds on the GP Patient Survey 2021 — a national survey of patie
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-## Appointment Types
+### Appointment Types
 
-### Remote appointments are now as common as in person appointments
+#### Remote appointments are now as common as in person appointments
 
 {% include remote_appts.html %}
 <p><strong>Figure 1.</strong> Proportion of appointment types betweeen survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.</p>
@@ -91,9 +91,9 @@ While most patients would be comfortable with an online appointment, 64% of UK p
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-## Online GP services
+### Online GP services
 
-### 44% of patients have used an online GP service in the last 12 months.
+#### 44% of patients have used an online GP service in the last 12 months.
 
 {% include online_activities_all.html %}
 <p><b>Figure 2.</b> The proportion of different online service use, between survey respondents that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
@@ -103,20 +103,16 @@ Ordering repeat prescriptions was the most popular activity among those who used
 Yet, online GP services haven't fully taken off. More than half (56%) of all patients surveyed have not used any online service.
 
 
-### Patients with long term health conditions used online GP services 13% more than patients without long term conditions.
+#### Patients with long term health conditions used online GP services 13% more than patients without long term conditions.
 
 {% include online_activities_ltc.html %}
 <p><b>Figure 3.</b> The proportion of online service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 Patients with a long term condition were also more than twice as likely to order repeat prescriptions, 4% more likely to access their medical records online and 2% more likely to book appointments online.
 
-<div class="nhsuk-inset-text">
-                  <span class="nhsuk-u-visually-hidden">Information: </span>
-                  <p>Yet, online hasn't fully taken off. More than half (56%) of all patients surveyed have not used any GP online services.</p>
-                </div>
 
 
-### The oldest and youngest age groups were least likely to use online GP services.
+#### The oldest and youngest age groups were least likely to use online GP services.
 
 {% include online_activities_age.html %}
 <p><b>Figure 3.</b> The proportion of online service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
@@ -136,9 +132,9 @@ Ofcom's [Digital Exclusion Survey](https://www.ofcom.org.uk/__data/assets/pdf_fi
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-## GP practice websites
+### GP practice websites
 
-### Using GP practice websites is getting slightly harder year on year, particularly for those aged 75 and over.
+#### Using GP practice websites is getting slightly harder year on year, particularly for those aged 75 and over.
 
 {% include ease_of_use.html %}
 <p><b>Figure 4.</b> The proportion of survey respondents aged 75 and over that found it easy use their GP practice's website to look for information or access services. Source: GP Patient Survey 2021.</p>
@@ -149,7 +145,7 @@ Patients with a learning disability are twice as likely to find GP practice webs
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-#### Conclusion
+### Conclusion
 
 Patients have seen a fundamental shift in how general practices deliver primary care services since the coronavirus pandemic. The GP Patient Survey has shown that patients are getting more familiar with online GP services such as remote appointments and ordering repeat prescriptions online. 
 
