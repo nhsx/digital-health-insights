@@ -81,7 +81,7 @@ In previous surveys, face-to-face appointments were the dominant appointment typ
 
 Patients are more likely to say they felt their needs were met in their last face-to-face appointment (95%) than in their last remote appointment (92%).
 
-Research from the Office for National Statistics found that, in August 2020, 64% of people said they would be ‘comfortable’ or ‘very comfortable’ attending an online appointment with a health professional. However, so over 70 (53%) or with an underlying health condition* (57%) weren’t as comfortable with online appointments.
+Research from the [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#coronavirus-and-the-social-impacts-on-great-britain-data) found that, in August 2020, 64% of people said they would be ‘comfortable’ or ‘very comfortable’ attending an online appointment with a health professional. However, so over 70 (53%) or with an underlying health condition* (57%) weren’t as comfortable with online appointments.
 
 While most patients would be comfortable with an online appointment, 64% of UK patients still would prefer in-person consultations in the future.
 
