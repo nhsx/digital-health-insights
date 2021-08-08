@@ -60,7 +60,8 @@ As [more consumers use digital tools](https://www.lloydsbank.com/banking-with-us
 
 Given that 89% of consumers use digital tools for online banking and 60% for accessing local council information, there is great potential to expand digital health services in the UK.
 
-Our analysis builds on the GP Patient Survey 2021 — a national survey of patients’ experiences of general practice —  to shed light on the use of and barriers to accessing online general practice services in England.
+Our analysis builds on the GP Patient Survey 2021 — a national survey of patients’ experiences of general practice —  to shed light on the use of and barriers to accessing online general practice services in England since the coronavirus pandemic.
+
 
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
@@ -83,8 +84,6 @@ In previous surveys, face-to-face appointments were the dominant appointment typ
 Patients are more likely to say their needs were met in their last face-to-face appointment (95%) than in their last remote appointment (92%).
 
 Research from the [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#coronavirus-and-the-social-impacts-on-great-britain-data) found that, in August 2020, 64% of people said they would be ‘comfortable’ or ‘very comfortable’ attending an online appointment with a health professional. However, so over 70 (53%) or with an underlying health condition* (57%) weren’t as comfortable with online appointments.
-
-While most patients would be comfortable with an online appointment, 64% of UK patients still would prefer in-person consultations in the future.
 
 While most patients would be comfortable with an online appointment, 64% of UK patients still would [prefer in-person consultations in the future](https://docs.google.com/document/d/1qJ-z2q88IVDCgZLhWOhbbZa8Kj3_OMrU8XxBBcWvPes/edit#).
 
@@ -149,7 +148,7 @@ Patients with a learning disability are twice as likely to find GP practice webs
 
 ### Conclusion
 
-Patients have seen a fundamental shift in how general practices deliver primary care services since the coronavirus pandemic. The GP Patient Survey has shown that patients are getting more familiar with online GP services such as remote appointments and ordering repeat prescriptions online. 
+Patients have seen a fundamental shift in how general practices deliver primary care services. The GP Patient Survey has shown that patients are getting more familiar with online GP services such as remote appointments and ordering repeat prescriptions online. 
 
 And yet, some barriers remain: more than half of patients haven’t used any online GP service in the last 12 months, more patients felt in-person appointments met their needs, and GP practices websites need to be more accessible.
 
