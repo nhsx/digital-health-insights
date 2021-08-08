@@ -4,7 +4,7 @@
   <h3 class="nhsuk-warning-callout__label">
     Draft<span class="nhsuk-u-visually-hidden">:</span>
   </h3>
-  <p><b>Pre-publication:</b> For more information contact: [mary.amanuel@nhsx.nhs.uk](mailto:mary.amanuel@nhsx.nhs.uk)</p>
+  <p><b>Pre-publication:</b> For more information contact: <a href="mailto:mary.amanuel@nhsx.nhs.uk">mary.amanuel@nhsx.nhs.uk</a></p>
 </div>
 
 <td class="nhsuk-table__cell">
