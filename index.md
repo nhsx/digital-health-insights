@@ -47,7 +47,6 @@ Mary Amanuel, Craig Shenton
       <li><b>Patients aged 75 and over are least likely to use online GP services,</b> with 68% not using any online service in the last 12 months. </li>
       <li> <b>GP practice websites are getting slightly less easy to use,  </b> particularly for those aged 75 and over.</li>
     </ul>
-    <p></p>
     
   </div>
 </div>
