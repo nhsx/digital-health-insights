@@ -67,7 +67,7 @@ Our analysis builds on the GP Patient Survey 2021 — a national survey of patie
 
 ### Appointment Types
 
-#### Remote appointments are now as common as in person appointments
+#### Remote appointments are now as common as in person appointments.
 
 {% include remote_appts.html %}
 <p><strong>Figure 1.</strong> Proportion of appointment types betweeen survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.</p>
@@ -86,7 +86,7 @@ Research from the [Office for National Statistics](https://www.ons.gov.uk/people
 
 While most patients would be comfortable with an online appointment, 64% of UK patients still would [prefer in-person consultations in the future](https://docs.google.com/document/d/1qJ-z2q88IVDCgZLhWOhbbZa8Kj3_OMrU8XxBBcWvPes/edit#).
 
-[*ONS Glossary of what is considered an underlying health condition. This may be different to how the GP Patient Survey 2021 defines a long term health condition](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary)
+[*ONS Glossary of what is considered an underlying health condition. This may be different to how the GP Patient Survey 2021 defines as a long term health condition](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary)
 
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
