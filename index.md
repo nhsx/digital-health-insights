@@ -59,13 +59,13 @@ Mary Amanuel & Craig Shenton ([NHSX Analytics Unit](https://www.nhsx.nhs.uk/key-
           <a class="nhsuk-contents-list__link" href="#Introduction">Introduction</a>
         </li>
         <li class="nhsuk-contents-list__item">
-          <a class="nhsuk-contents-list__link" href="#Appointment Types">Appointment Types</a>
+          <a class="nhsuk-contents-list__link" href="#Appointments">GP Appointments</a>
         </li>
         <li class="nhsuk-contents-list__item">
-          <a class="nhsuk-contents-list__link" href="#Online GP services">Online GP services</a>
+          <a class="nhsuk-contents-list__link" href="#Online Services">Online Services</a>
         </li>
         <li class="nhsuk-contents-list__item">
-          <a class="nhsuk-contents-list__link" href="#GP website accessability">GP website accessability</a>
+          <a class="nhsuk-contents-list__link" href="#Web Accessability">Web Accessability</a>
         </li>
         <li class="nhsuk-contents-list__item">
           <a class="nhsuk-contents-list__link" href="#Conclusion">Conclusion</a>
@@ -87,7 +87,7 @@ Our analysis builds on the GP Patient Survey 2021 — a national survey of patie
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<h2 id="Appointment Types">Appointment Types</h2>
+<h2 id="Appointments">Appointments</h2>
 
 ### Remote appointments are now as common as in person appointments
 
@@ -111,7 +111,7 @@ While most patients would be comfortable with an online appointment, 64% of UK p
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<h2 id="Online GP services">Online GP services</h2>
+<h2 id="Online Services">Online Services</h2>
 
 ### Almost half (44%) of patients have used an online GP service in the last 12 months
 
@@ -145,7 +145,7 @@ Ofcom's [Digital Exclusion Survey](https://www.ofcom.org.uk/__data/assets/pdf_fi
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<h2 id="GP website accessability">GP website accessability</h2>
+<h2 id="Web Accessability">Web Accessability</h2>
 
 ### Using GP practice websites is getting slightly harder year on year, particularly for those aged 75 and over
 
@@ -166,6 +166,8 @@ Patients have seen a fundamental shift in how general practices deliver primary 
 And yet, some barriers remain: more than half of patients haven’t used any online GP service in the last 12 months, more patients felt in-person appointments met their needs, and GP practices websites need to be more accessible.
 
 Moving forward, accessible, inclusive, and personalised healthcare services will be key to overcoming these barriers, building a solid foundation for further digital transformation.
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 <h3 id="References">References</h3>
 
