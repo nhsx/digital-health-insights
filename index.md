@@ -8,7 +8,7 @@
 </div>
 
 <td class="nhsuk-table__cell">
-  <strong class="nhsuk-tag"><large>Digital Health Insights</large></strong>
+  <strong class="nhsuk-tag">Digital Health Insights</strong>
   </td>
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -38,7 +38,7 @@ Mary Amanuel, Craig Shenton (NHSX Analytics Unit)
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<div class="nhsuk-width-container"">
+<div class="nhsuk-width-container">
   <nav class="nhsuk-contents-list" role="navigation" aria-label="Pages in this guide">
   <h2 class="nhsuk-u-visually-hidden">Contents</h2>
   <ol class="nhsuk-contents-list__list">
@@ -65,11 +65,11 @@ Mary Amanuel, Craig Shenton (NHSX Analytics Unit)
 </div>
 ### Introduction
 
-As [more people use digital tools](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html) and websites to manage their physical (37%) and mental health (25%) in 2021, access to quality online health services is crucial to the digital transformation agenda in the NHS [1].
+As more people use digital tools and websites to manage their physical (37%) and mental health (25%) in 2021 [1](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html), access to quality online health services is crucial to the digital transformation of the NHS.
 
-Given that 89% of consumers use digital tools for online banking and 60% for accessing local council information, there is great potential to expand digital health services in the UK.
+Given that 89% of consumers use digital tools for online banking and 60% for accessing local council information [1](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html), there is great potential to expand digital health services in the UK.
 
-Our analysis builds on the GP Patient Survey 2021 — a national survey of patients’ experiences of general practice — to shed light on the use of--and barriers to--accessing online general practice services in England since the coronavirus pandemic.
+Our analysis builds on the GP Patient Survey 2021 — a national survey of patients’ experiences of general practice — to shed light on the use of--and barriers to--accessing online general practice services in England since the coronavirus pandemic [2](https://gp-patient.co.uk/).
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -165,4 +165,6 @@ Moving forward, accessible, inclusive, and personalised healthcare services will
 
 ### References
 
-[1] Lloyds (2021). Consumer Digital Index. Available online at: [www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html)
+[1] Lloyds (2021). Consumer Digital Index. Available online at: [www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html).
+
+[2] GP Patient Survey 2021 (2021). Available online at: [https://gp-patient.co.uk/](https://gp-patient.co.uk/).
