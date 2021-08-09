@@ -27,10 +27,9 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
   <ul>
       <li><b>Remote appointments are now as common as face-to-face appointments.</b>  While most patients are comfortable with online appointments, many would still prefer face-to-face appointments in the future.</li>
       <li><b>Almost half (44%) of patients have used an online GP service in the last 12 months.  </b> Patients will long term health conditions are more likely than average to use online services.</li>
-      <li><b>Patients aged 75 and over are the least likely to use online GP services,</b> with more that two thirds (68%) not using any online service in the last 12 months. </li>
-      <li><b>Patients aged 75 and over are also finding it more difficult to find information on GP practice websites over time</b></li>
+      <li><b>Patients aged 75 and over are the least likely to use online GP services over all,</b> with more that two thirds (68%) not using any online service in the last 12 months. </li>
+      <li><b>In terms of web accessability, everyone is finding it more difficult to find information on thier GP practice website</b>, with a sharper fall for those patients aged 75 and over.</li>
     </ul>
-    
   </div>
 </div>
 
@@ -144,7 +143,7 @@ Ofcom's [Digital Exclusion Survey](https://www.ofcom.org.uk/__data/assets/pdf_fi
 
 {% include ease_of_use.html %}
 
-<p><b>Figure 4.</b> The proportion of survey respondents aged 75 and over that found it easy use their GP practice's website to look for information or access services. Source: GP Patient Survey 2021.</p>
+<p><b>Figure 4.</b> The proportion of survey respondents aged 75 and over that found it 'not easy' to use their GP practice's website to look for information or access services (where 'Not easy' = 'Not very easy' + 'Not at all easy') Source: GP Patient Survey 2021.</p>
 
 A quarter (25%) of patients who used their GP practice's website say it was 'not easy' to look for information or access services on the website, compared with 22% in 2018.
 
