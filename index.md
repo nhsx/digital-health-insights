@@ -15,7 +15,7 @@
 <h1> What can the 2021 GP Patient Survey tell us about access to online general practice services?</h1>
 
 <p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"></path></svg> 6th August 2021 |
-Mary Amanuel & Craig Shenton ([NHSX Analytics Unit](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/))</p>
+Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/">NHSX Analytics Unit</a>)</p>
 
 <div class="nhsuk-care-card nhsuk-care-card--primary">
   <div class="nhsuk-care-card__heading-container">
@@ -98,14 +98,9 @@ In previous surveys, face-to-face appointments were the dominant appointment typ
 
 Patients are more likely to say their needs were met in their last face-to-face appointment (95%) than in their last remote appointment (92%).
 
-Research from the [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#coronavirus-and-the-social-impacts-on-great-britain-data) found that, in August 2020, 64% of people said they would be ‘comfortable’ or ‘very comfortable’ attending an online appointment with a health professional. However, so over 70 (53%) or with an underlying health condition\* (57%) weren’t as comfortable with online appointments.
+Research from the [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#coronavirus-and-the-social-impacts-on-great-britain-data) found that, in August 2020, 64% of people said they would be ‘comfortable’ or ‘very comfortable’ attending an online appointment with a health professional. However, so over 70 (53%) or with an underlying health condition (57%) weren’t as comfortable with online appointments [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary">3</a>].
 
 While most patients would be comfortable with an online appointment, 64% of UK patients still would [prefer in-person consultations in the future](https://docs.google.com/document/d/1qJ-z2q88IVDCgZLhWOhbbZa8Kj3_OMrU8XxBBcWvPes/edit#).
-
-<div class="nhsuk-inset-text">
-  <span class="nhsuk-u-visually-hidden">Information: </span>
-  <p>* The ONS Glossary of what is considered an underlying health condition may be different to how the GP Patient Survey 2021 defines a long-term health condition [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary">3</a>]</p>
-</div>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -169,6 +164,8 @@ Moving forward, accessible, inclusive, and personalised healthcare services will
 
 <h3 id="References">References</h3>
 
-[1] Lloyds (2021). Consumer Digital Index. Available online at: [www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html).
+[1] Lloyds (2021). "_Consumer Digital Index_". Available online at: [[Link](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html)].
 
-[2] GP Patient Survey 2021 (2021). Available online at: [https://gp-patient.co.uk/](https://gp-patient.co.uk/).
+[2] Ipsos MORI (2021). "_GP Patient Survey 2021_". Available online at: [[Link](https://gp-patient.co.uk/)].
+
+[3] ONS (2021). "_Corona virus and the social impacts on Great Britain_". Note: the ONS Glossary of what is considered an underlying health condition may be different to how the GP Patient Survey 2021 defines a long-term health condition Available online at: [[Link](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary)].
