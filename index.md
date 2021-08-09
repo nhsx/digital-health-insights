@@ -46,7 +46,7 @@ Mary Amanuel & Craig Shenton ([NHSX Analytics Unit](https://www.nhsx.nhs.uk/key-
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<div class="nhsuk-width-container">
+<div class="nhsuk-grid-column-one-third">
   <nav class="nhsuk-contents-list" role="navigation" aria-label="Pages in this guide">
   <h2 class="nhsuk-u-visually-hidden">Contents</h2>
   <ol class="nhsuk-contents-list__list">
@@ -75,13 +75,15 @@ Mary Amanuel & Craig Shenton ([NHSX Analytics Unit](https://www.nhsx.nhs.uk/key-
   </nav>
 </div>
 
+<div class="nhsuk-grid-column-two-thirds">
+
 <h2 id="Introduction">Introduction</h2>
 
-As more people use digital tools and websites to manage their physical (37%) and mental health (25%) in 2021 [[1](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html)], access to quality online health services is crucial to the digital transformation of the NHS.
-
-Given that 89% of consumers use digital tools for online banking and 60% for accessing local council information [[1](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html)], there is great potential to expand digital health services in the UK.
+As more people use digital tools and websites to manage their physical (37%) and mental health (25%) in 2021 [[1](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html)], access to quality online health services is crucial. Given that 89% of consumers use digital tools for online banking and 60% for accessing local council information [[1](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html)], there is great potential to expand digital health services in the UK.
 
 Our analysis builds on the GP Patient Survey 2021 — a national survey of patients’ experiences of general practice — to shed light on the use of--and barriers to--accessing online general practice services in England since the coronavirus pandemic [[2](https://gp-patient.co.uk/)].
+
+</div>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
