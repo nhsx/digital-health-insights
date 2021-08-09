@@ -19,16 +19,6 @@
 6th August 2021 |
 Mary Amanuel, Craig Shenton (NHSX Analytics Unit)
 
-<div class="nhsuk-action-link">
-  <a class="nhsuk-action-link__link" href="https://gp-patient.co.uk/">
-    <svg class="nhsuk-icon nhsuk-icon__arrow-right-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
-      <path d="M0 0h24v24H0z" fill="none"></path>
-      <path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
-    </svg>
-    <span class="nhsuk-action-link__text">Explore the GP Patient Survey 2021</span>
-  </a>
-</div>
-
 <div class="nhsuk-care-card nhsuk-care-card--primary">
   <div class="nhsuk-care-card__heading-container">
     <h3 class="nhsuk-care-card__heading"><span role="text"><span class="nhsuk-u-visually-hidden">Non-urgent advice: </span>Key findings</span></h3>
@@ -48,7 +38,7 @@ Mary Amanuel, Craig Shenton (NHSX Analytics Unit)
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<div class="nhsuk-grid-column-two-thirds">
+<div class="nhsuk-width-container"">
   <nav class="nhsuk-contents-list" role="navigation" aria-label="Pages in this guide">
   <h2 class="nhsuk-u-visually-hidden">Contents</h2>
   <ol class="nhsuk-contents-list__list">
@@ -75,11 +65,11 @@ Mary Amanuel, Craig Shenton (NHSX Analytics Unit)
 </div>
 ### Introduction
 
-As [more consumers use digital tools](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html) and websites to manage their physical (37%) and mental health (25%) in 2021, access to quality digital health services is crucial.
+As [more people use digital tools](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html) and websites to manage their physical (37%) and mental health (25%) in 2021, access to quality online health services is crucial to the digital transformation agenda in the NHS [1].
 
 Given that 89% of consumers use digital tools for online banking and 60% for accessing local council information, there is great potential to expand digital health services in the UK.
 
-Our analysis builds on the GP Patient Survey 2021 — a national survey of patients’ experiences of general practice — to shed light on the use of and barriers to accessing online general practice services in England since the coronavirus pandemic.
+Our analysis builds on the GP Patient Survey 2021 — a national survey of patients’ experiences of general practice — to shed light on the use of--and barriers to--accessing online general practice services in England since the coronavirus pandemic.
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -162,3 +152,17 @@ Patients have seen a fundamental shift in how general practices deliver primary 
 And yet, some barriers remain: more than half of patients haven’t used any online GP service in the last 12 months, more patients felt in-person appointments met their needs, and GP practices websites need to be more accessible.
 
 Moving forward, accessible, inclusive, and personalised healthcare services will be key to overcoming these barriers, building a solid foundation for further digital transformation.
+
+<div class="nhsuk-action-link">
+  <a class="nhsuk-action-link__link" href="https://gp-patient.co.uk/">
+    <svg class="nhsuk-icon nhsuk-icon__arrow-right-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M0 0h24v24H0z" fill="none"></path>
+      <path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
+    </svg>
+    <span class="nhsuk-action-link__text">Explore the GP Patient Survey 2021 yourself</span>
+  </a>
+</div>
+
+### References
+
+[1] Lloyds (2021). Consumer Digital Index. Available online at: [www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html)
