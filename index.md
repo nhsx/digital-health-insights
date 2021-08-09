@@ -16,7 +16,8 @@
 
 <!-- {% include update.html %}-->
 
-6th August 2021 | Mary Amanuel, Craig Shenton (NHSX Analytics Unit)
+6th August 2021 |
+Mary Amanuel, Craig Shenton (NHSX Analytics Unit)
 
 <div class="nhsuk-action-link">
   <a class="nhsuk-action-link__link" href="https://gp-patient.co.uk/">
@@ -47,6 +48,8 @@
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
+<div class="nhsuk-grid-column-two-thirds">
+        </div>
             <nav class="nhsuk-contents-list" role="navigation" aria-label="Pages in this guide">
             <h2 class="nhsuk-u-visually-hidden">Contents</h2>
             <ol class="nhsuk-contents-list__list">
@@ -70,7 +73,7 @@
                   </li>
             </ol>
             </nav>
-
+</div>
 ### Introduction
 
 As [more consumers use digital tools](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html) and websites to manage their physical (37%) and mental health (25%) in 2021, access to quality digital health services is crucial.
