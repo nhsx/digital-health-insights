@@ -8,7 +8,7 @@
 </div>
 
 <td class="nhsuk-table__cell">
-  <strong class="nhsuk-tag">Digital Health Insight</strong>
+  <strong class="nhsuk-tag"><large>Digital Health Insights</large></strong>
   </td>
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
