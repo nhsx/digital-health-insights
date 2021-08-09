@@ -49,30 +49,29 @@ Mary Amanuel, Craig Shenton (NHSX Analytics Unit)
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 <div class="nhsuk-grid-column-two-thirds">
-        </div>
-            <nav class="nhsuk-contents-list" role="navigation" aria-label="Pages in this guide">
-            <h2 class="nhsuk-u-visually-hidden">Contents</h2>
-            <ol class="nhsuk-contents-list__list">
-                  <li class="nhsuk-contents-list__item" aria-current="page">
-                    <span class="nhsuk-contents-list__current">Table of Contents</span>
-                  </li>
-                  <li class="nhsuk-contents-list__item">
-                    <a class="nhsuk-contents-list__link" href="#Introduction">Introduction</a>
-                  </li>
-                  <li class="nhsuk-contents-list__item">
-                    <a class="nhsuk-contents-list__link" href="#Appointment Types">Appointment Types</a>
-                  </li>
-                  <li class="nhsuk-contents-list__item">
-                    <a class="nhsuk-contents-list__link" href="#Online GP services">Online GP services</a>
-                  </li>
-                  <li class="nhsuk-contents-list__item">
-                    <a class="nhsuk-contents-list__link" href="#GP website accessability">GP website accessability</a>
-                  </li>
-                  <li class="nhsuk-contents-list__item">
-                    <a class="nhsuk-contents-list__link" href="#Conclusion">Conclusion</a>
-                  </li>
-            </ol>
-            </nav>
+  <nav class="nhsuk-contents-list" role="navigation" aria-label="Pages in this guide">
+  <h2 class="nhsuk-u-visually-hidden">Contents</h2>
+  <ol class="nhsuk-contents-list__list">
+        <li class="nhsuk-contents-list__item" aria-current="page">
+          <span class="nhsuk-contents-list__current">Table of Contents</span>
+        </li>
+        <li class="nhsuk-contents-list__item">
+          <a class="nhsuk-contents-list__link" href="#Introduction">Introduction</a>
+        </li>
+        <li class="nhsuk-contents-list__item">
+          <a class="nhsuk-contents-list__link" href="#Appointment Types">Appointment Types</a>
+        </li>
+        <li class="nhsuk-contents-list__item">
+          <a class="nhsuk-contents-list__link" href="#Online GP services">Online GP services</a>
+        </li>
+        <li class="nhsuk-contents-list__item">
+          <a class="nhsuk-contents-list__link" href="#GP website accessability">GP website accessability</a>
+        </li>
+        <li class="nhsuk-contents-list__item">
+          <a class="nhsuk-contents-list__link" href="#Conclusion">Conclusion</a>
+        </li>
+  </ol>
+  </nav>
 </div>
 ### Introduction
 
