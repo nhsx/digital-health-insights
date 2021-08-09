@@ -12,37 +12,6 @@
   </td>
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<div class="nhsuk-grid-column-one-third">
-            <nav class="nhsuk-contents-list" role="navigation" aria-label="Pages in this guide">
-            <h2 class="nhsuk-u-visually-hidden">Contents</h2>
-            <ol class="nhsuk-contents-list__list">
-                  <li class="nhsuk-contents-list__item" aria-current="page">
-                    <span class="nhsuk-contents-list__current">Table of Contents</span>
-                  </li>
-                  <li class="nhsuk-contents-list__item">
-                    <a class="nhsuk-contents-list__link" href="#A">Introduction</a>
-                  </li>
-                  <li class="nhsuk-contents-list__item">
-                    <a class="nhsuk-contents-list__link" href="#B">Data quality notice</a>
-                  </li>
-                  <li class="nhsuk-contents-list__item">
-                    <a class="nhsuk-contents-list__link" href="#C">Latest outcome</a>
-                  </li>
-                  <li class="nhsuk-contents-list__item">
-                    <a class="nhsuk-contents-list__link" href="#D">Full dataset and download</a>
-                  </li>
-                  <li class="nhsuk-contents-list__item">
-                    <a class="nhsuk-contents-list__link" href="#E">Caveats and notes</a>
-                  </li>
-                  <li class="nhsuk-contents-list__item">
-                    <a class="nhsuk-contents-list__link" href="#F">Further information</a>
-                  </li>
-            </ol>
-            </nav>
-            </div>
-
-<div class="nhsuk-grid-column-two-thirds">
-
 ## What can the 2021 GP Patient Survey tell us about access to online general practice services?
 
 <!-- {% include update.html %}-->
@@ -77,6 +46,30 @@
 </div>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
+            <nav class="nhsuk-contents-list" role="navigation" aria-label="Pages in this guide">
+            <h2 class="nhsuk-u-visually-hidden">Contents</h2>
+            <ol class="nhsuk-contents-list__list">
+                  <li class="nhsuk-contents-list__item" aria-current="page">
+                    <span class="nhsuk-contents-list__current">Table of Contents</span>
+                  </li>
+                  <li class="nhsuk-contents-list__item">
+                    <a class="nhsuk-contents-list__link" href="#Introduction">Introduction</a>
+                  </li>
+                  <li class="nhsuk-contents-list__item">
+                    <a class="nhsuk-contents-list__link" href="#Appointment Types">Appointment Types</a>
+                  </li>
+                  <li class="nhsuk-contents-list__item">
+                    <a class="nhsuk-contents-list__link" href="#Online GP services">Online GP services</a>
+                  </li>
+                  <li class="nhsuk-contents-list__item">
+                    <a class="nhsuk-contents-list__link" href="#GP website accessability">GP website accessability</a>
+                  </li>
+                  <li class="nhsuk-contents-list__item">
+                    <a class="nhsuk-contents-list__link" href="#Conclusion">Conclusion</a>
+                  </li>
+            </ol>
+            </nav>
 
 ### Introduction
 
@@ -146,7 +139,7 @@ Ofcom's [Digital Exclusion Survey](https://www.ofcom.org.uk/__data/assets/pdf_fi
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-### GP practice websites
+### GP website accessability
 
 #### Using GP practice websites is getting slightly harder year on year, particularly for those aged 75 and over.
 
@@ -167,5 +160,3 @@ Patients have seen a fundamental shift in how general practices deliver primary 
 And yet, some barriers remain: more than half of patients haven’t used any online GP service in the last 12 months, more patients felt in-person appointments met their needs, and GP practices websites need to be more accessible.
 
 Moving forward, accessible, inclusive, and personalised healthcare services will be key to overcoming these barriers, building a solid foundation for further digital transformation.
-
-</div>
