@@ -87,9 +87,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 {% include remote_appts.html %}
 
-<div class="nhsuk-hint" id="more-detail-hint">
-    <strong>Figure 1.</strong> Type of appointment attended by survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.
-</div>
+<strong>Figure 1.</strong> Type of appointment attended by survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.
 
 For the first time in history, [more remote appointments](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020) took place in April 2020 than face-to-face appointments.
 
@@ -110,6 +108,38 @@ While most patients would be comfortable with an online appointment, 64% of UK p
 ### Almost half (44%) of patients have used an online GP service in the last 12 months
 
 Ordering repeat prescriptions was the most popular activity among those who used an online service (26%), followed by booking an appointment online (19%). Yet, online GP services haven't fully taken off. More than half (56%) of all patients surveyed have not used any online service.
+
+<table>
+  <caption>All patients</caption>
+  <thead>
+    <tr>
+      <th scope="col">Online Activity</th>
+      <th scope="col">Percent (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ordering repeat prescriptions online</td>
+      <td>26%</td>
+    </tr>
+    <tr>
+      <td>Booking appointments online</td>
+      <td>19%</td>
+    </tr>
+    <tr>
+      <td>Had an online consultation or appointment</td>
+      <td>18%</td>
+    </tr>
+    <tr>
+      <td>Accessing my medical records online</td>
+      <td>7%</td>
+    </tr>
+    <tr>
+      <td>None of the above</td>
+      <td>56%</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Patients with long term health conditions used online GP services 13% more than patients without long term conditions
 
