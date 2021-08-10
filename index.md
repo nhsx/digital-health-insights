@@ -218,7 +218,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 <p>
 [1] Lloyds (2021). "_Consumer Digital Index_". Available online [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">Link</a>].
-</li>
+</p>
 
 <p>
 [2] Ipsos MORI (2021). "_GP Patient Survey 2021_". The survey contains data collected from patients aged 16+ registered with a GP practice in England. Available online [<a href="https://gp-patient.co.uk/">Link</a>].
