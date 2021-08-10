@@ -217,26 +217,26 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 <h3 id="References">References</h3>
 
 <p>
-<strong>[1] Lloyds (2021)</strong>. '<em>Consumer Digital Index</em>'. Available online [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">Link</a>].
+<strong>[1] Lloyds (2021)</strong>. <em>Consumer Digital Index</em>. Available online [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">Link</a>].
 </p>
 
 <p>
-<strong>[2] Ipsos MORI (2021)</strong>. '<em>GP Patient Survey 2021</em>'. The survey contains data collected from patients aged 16+ registered with a GP practice in England. Available online [<a href="https://gp-patient.co.uk/">Link</a>].
+<strong>[2] Ipsos MORI (2021)</strong>. <em>GP Patient Survey 2021</em>. The survey contains data collected from patients aged 16+ registered with a GP practice in England. Available online [<a href="https://gp-patient.co.uk/">Link</a>].
 </p>
 <p>
-<strong>[3] NHS Digital (2020)</strong>. '<em>Appointments in General Practice</em>'. Available online [<a href="https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020">Link</a>].
+<strong>[3] NHS Digital (2020)</strong>. <em>Appointments in General Practice</em>. Available online [<a href="https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020">Link</a>].
 </p>
 <p>
-<strong>[4] ONS (2021)</strong>. '<em>Corona virus and the social impacts on Great Britain</em>'. Available online [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/">Link</a>].
+<strong>[4] ONS (2021)</strong>. <em>Coronavirus and the social impacts on Great Britain: 4 September 2020</em>. Available online [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020">Link</a>].
 </p>
 <p>
-<strong>[5] ONS (2021)</strong>. '<em>Corona virus and the social impacts on Great Britain</em>'. Note: the ONS Glossary of what is considered an underlying health condition may be different to how the GP Patient Survey 2021 defines a long-term health condition. Available online [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary">Link</a>].
+<strong>[5] ONS (2021)</strong>. <em>Coronavirus and the social impacts on Great Britain: 4 September 2020</em>. Note: the ONS Glossary of what is considered an underlying health condition may be different to how the GP Patient Survey 2021 defines a long-term health condition. Available online [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary">Link</a>].
 </p>
 <p>
-<strong>[6] Age UK (2021)</strong>. '<em>Digital inclusion and older people – how have things changed in a Covid-19 world?</em>'. Available online [<a href="https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf">Link</a>].
+<strong>[6] Age UK (2021)</strong>. <em>Digital inclusion and older people – how have things changed in a Covid-19 world?</em>. Available online [<a href="https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf">Link</a>].
 </p>
 <p>
-<strong>[7] Ofcom (2021)</strong>. '<em>Adults' Media Use and Attitudes report 2020/2021</em>'. Available online [<a href="https://www.ofcom.org.uk/__data/assets/pdf_file/0025/217834/adults-media-use-and-attitudes-report-2020-21.pdf">Link</a>].
+<strong>[7] Ofcom (2021)</strong>. <em>Adults' Media Use and Attitudes report 2020/2021</em>. Available online [<a href="https://www.ofcom.org.uk/__data/assets/pdf_file/0025/217834/adults-media-use-and-attitudes-report-2020-21.pdf">Link</a>].
 </p>
 
 </div>
