@@ -28,7 +28,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
       <li><b>Remote appointments are now as common as face-to-face appointments.</b>  While most patients are comfortable with online appointments, many would still prefer face-to-face appointments in the future.</li>
       <li><b>Almost half (44%) of patients have used an online GP service in the last 12 months.  </b> Patients will long term health conditions are more likely than average to use online services.</li>
       <li><b>Patients aged 75 and over are the least likely to use online GP services over all,</b> with more that two thirds (68%) not using any online service in the last 12 months. </li>
-      <li><b>In terms of web accessability, everyone is finding it more difficult to find information on thier GP practice website</b>, with a sharper rise for those patients aged 75 and over.</li>
+      <li><b>In terms of web accessability, patients are finding it more difficult to use their GP practice website</b>, with a sharper rise for those patients aged 75 and over.</li>
     </ul>
   </div>
 </div>
@@ -75,7 +75,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 </div>
 
 <h2 id="Introduction">Introduction</h2>
-<p>As more people use digital tools and websites to manage their physical (37%) and mental health (25%) in 2021 [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">1</a>], access to quality online health services is crucial. Given that 89% of consumers use digital tools for online banking and 60% for accessing local council information [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">1</a>], there is great potential to expand digital health services in the UK.</p>
+<p>As more people use digital tools and websites to manage their physical (37%) and mental health (25%) in 2021 [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">1</a>], access to quality online health services is more important now than ever. Given that 89% of consumers use digital tools for online banking and 60% for accessing local council information [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">1</a>], there is great potential to expand digital health services in the UK.</p>
 
 <p>Our analysis builds on the GP Patient Survey 2021 — a national survey of patients’ experiences of general practice — to shed light on the use of, and barriers to, accessing online general practice services in England since the coronavirus pandemic [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
