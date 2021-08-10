@@ -83,7 +83,10 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 <h2 id="Appointments">Appointments</h2>
 
-### Remote appointments are now as common as in person appointments
+<div class="nhsuk-inset-text">
+  <span class="nhsuk-u-visually-hidden">Key finding: </span>
+  <h3>Remote appointments are now as common as in person appointments</h3>
+</div>
 
 {% include remote_appts.html %}
 
@@ -93,7 +96,7 @@ For the first time in history, [more remote appointments](https://digital.nhs.uk
 
 In previous surveys, face-to-face appointments were the dominant appointment type, making up 90% of the patient appointments. In 2021, however, 50% of patients reported having a remote appointment (compared with 10% in 2020).
 
-### How do patients feel about remote appointments?
+#### How do patients feel about remote appointments?
 
 Patients are more likely to say their needs were met in their last face-to-face appointment (95%) than in their last remote appointment (92%).
 
@@ -105,7 +108,10 @@ While most patients would be comfortable with an online appointment, 64% of UK p
 
 <h2 id="Online Services">Online Services</h2>
 
-### Almost half (44%) of patients have used an online GP service in the last 12 months
+<div class="nhsuk-inset-text">
+  <span class="nhsuk-u-visually-hidden">Key finding: </span>
+  <h3>Almost half (44%) of patients have used an online GP service in the last 12 months</h3>
+</div>
 
 Ordering repeat prescriptions was the most popular activity among those who used an online service (26%), followed by booking an appointment online (19%). Yet, online GP services haven't fully taken off. More than half (56%) of all patients surveyed have not used any online service.
 
@@ -147,8 +153,10 @@ Ordering repeat prescriptions was the most popular activity among those who used
 </div>
 Patients with a long term condition were also more than twice as likely to order repeat prescriptions, 4% more likely to access their medical records online and 2% more likely to book appointments online.
 
+<table>
 <caption>Figure 2. Online GP service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</caption>
 {% include online_activities_ltc.html %}
+</table>
 
 <div class="nhsuk-inset-text">
   <span class="nhsuk-u-visually-hidden">Key finding: </span>
@@ -165,7 +173,7 @@ Interestingly, 16-24s were second least likely to use online GP services, with 4
 
 <p><b>Figure 4.</b> Online GP service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
-### Why aren't patients aged 75+ using online GP services?
+#### Why aren't patients aged 75+ using online GP services?
 
 In a [recent report on digital inclusion](https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf), Age UK found that 42% of aged 75 and over do not use the internet.
 
@@ -177,7 +185,10 @@ Ofcom's [Digital Exclusion Survey](https://www.ofcom.org.uk/__data/assets/pdf_fi
 
 <h2 id="Web Accessability">Web Accessability</h2>
 
-### Using GP practice websites is getting slightly harder year on year, particularly for those aged 75 and over
+<div class="nhsuk-inset-text">
+  <span class="nhsuk-u-visually-hidden">Key finding: </span>
+  <h3>Using GP practice websites is getting slightly harder year on year, particularly for those aged 75 and over</h3>
+</div>
 
 {% include ease_of_use.html %}
 
