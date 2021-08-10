@@ -145,23 +145,19 @@ Ordering repeat prescriptions was the most popular activity among those who used
   <span class="nhsuk-u-visually-hidden">Key finding: </span>
   <h3>Patients with long term health conditions used online GP services 13% more than patients without long term conditions</h3>
 </div>
-
-{% include online_activities_ltc.html %}
-
-<p><b>Figure 2.</b> Online GP service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
-
 Patients with a long term condition were also more than twice as likely to order repeat prescriptions, 4% more likely to access their medical records online and 2% more likely to book appointments online.
+
+<caption>Figure 2. Online GP service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</caption>
+{% include online_activities_ltc.html %}
 
 <div class="nhsuk-inset-text">
   <span class="nhsuk-u-visually-hidden">Key finding: </span>
   <h3>The oldest and youngest age groups were least likely to use online GP services</h3>
 </div>
-
-{% include online_activities_75.html %}
-
-<p><b>Figure 3.</b> Online GP service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
-
 Over 75s are 12% less likely to use online services, with 68% not using any online GP service in the last 12 months.
+
+<caption>Figure 3. Online GP service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</caption>
+{% include online_activities_75.html %}
 
 Interestingly, 16-24s were second least likely to use online GP services, with 41% using an online service in the last 12 months (compared with 44% nationally).
 
