@@ -28,7 +28,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
       <li><b>Remote appointments are now as common as face-to-face appointments.</b>  While most patients are comfortable with online appointments, many would still prefer face-to-face appointments in the future.</li>
       <li><b>Almost half (44%) of patients have used an online GP service in the last 12 months.  </b> Patients will long term health conditions are more likely than average to use online services.</li>
       <li><b>Patients aged 75 and over are the least likely to use online GP services over all,</b> with more that two thirds (68%) not using any online service in the last 12 months. </li>
-      <li><b>In terms of web accessability, patients are finding it more difficult to use their GP practice website</b>, with a sharper rise for those aged 75 and over.</li>
+      <li><b>In terms of web accessability, patients are finding it more difficult to use their GP practice website</b>, particularly for those aged 75 and over.</li>
     </ul>
   </div>
 </div>
@@ -88,19 +88,19 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
   <h3>Remote appointments are now as common as in person appointments</h3>
 </div>
 
-For the first time in history, [more remote appointments](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020) took place in April 2020 than face-to-face appointments. In previous surveys, face-to-face appointments were the dominant appointment type, making up 90% of the patient appointments. In 2021, however, 50% of patients reported having a remote appointment (compared with 10% in 2020).
+For the first time, more remote appointments took place in April 2020 than face-to-face appointments [<a href="https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020">3</a>]. In previous surveys, face-to-face appointments were the dominant appointment type, making up 90% of the patient appointments. In 2021, however, 50% of patients reported having a remote appointment (compared with 10% in 2020) [<a href="https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020">3</a>].
 
-<strong>Figure 1.</strong> Type of appointment attended by survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.
+<strong>Figure 1.</strong> Type of appointment attended by patients, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.
 
 {% include remote_appts.html %}
 
 #### How do patients feel about remote appointments?
 
-Patients are more likely to say their needs were met in their last face-to-face appointment (95%) than in their last remote appointment (92%).
+Patients are more likely to say their needs were met in their last face-to-face appointment (95%) than in their last remote appointment (92%) [<a href="https://gp-patient.co.uk/">2</a>].
 
-Research from the [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#coronavirus-and-the-social-impacts-on-great-britain-data) found that, in August 2020, 64% of people said they would be ‘comfortable’ or ‘very comfortable’ attending an online appointment with a health professional. However, so over 70 (53%) or with an underlying health condition (57%) weren’t as comfortable with online appointments [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary">3</a>].
+Research from the Office for National Statistics found that, in August 2020, 64% of people said they would be ‘comfortable’ or ‘very comfortable’ attending an online appointment with a health professional [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/">4</a>]. However, so over 70 (53%) or with an underlying health condition (57%) weren’t as comfortable with online appointments [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary">5</a>].
 
-While most patients would be comfortable with an online appointment, 64% of UK patients still would [prefer in-person consultations in the future](https://docs.google.com/document/d/1qJ-z2q88IVDCgZLhWOhbbZa8Kj3_OMrU8XxBBcWvPes/edit#).
+<!-- ***need link and ref*** While most patients would be comfortable with an online appointment, 64% of UK patients still would [prefer in-person consultations in the future](https://docs.google.com/document/d/1qJ-z2q88IVDCgZLhWOhbbZa8Kj3_OMrU8XxBBcWvPes/edit#). -->
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -111,9 +111,9 @@ While most patients would be comfortable with an online appointment, 64% of UK p
   <h3>Almost half (44%) of patients have used an online GP service in the last 12 months</h3>
 </div>
 
-Ordering repeat prescriptions was the most popular activity among those who used an online service (26%), followed by booking an appointment online (19%). Yet, online GP services haven't fully taken off. More than half (56%) of all patients surveyed have not used any online service.
+Ordering repeat prescriptions was the most popular activity among those who used an online service (26%), followed by booking an appointment online (19%). Yet, online GP services haven't fully taken off. More than half (56%) of all patients surveyed have not used any online service [<a href="https://gp-patient.co.uk/">2</a>].
 
-<strong>Table 1.</strong> Patients' use of online GP services in the last 12 months
+<strong>Table 1.</strong> Patients' use of online GP services in the last 12 months. Source: GP Patient Survey 2021.
 
 <table>
   <thead>
@@ -150,7 +150,7 @@ Ordering repeat prescriptions was the most popular activity among those who used
   <span class="nhsuk-u-visually-hidden">Key finding: </span>
   <h3>Patients with long term health conditions used online GP services 13% more than patients without long term conditions</h3>
 </div>
-Patients with a long term condition were also more than twice as likely to order repeat prescriptions, 4% more likely to access their medical records online and 2% more likely to book appointments online.
+Patients with a long term condition were also more than twice as likely to order repeat prescriptions, 4% more likely to access their medical records online and 2% more likely to book appointments online [<a href="https://gp-patient.co.uk/">2</a>].
 
 <strong>Figure 2.</strong> Online GP service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.
 
@@ -158,26 +158,27 @@ Patients with a long term condition were also more than twice as likely to order
 
 <div class="nhsuk-inset-text">
   <span class="nhsuk-u-visually-hidden">Key finding: </span>
-  <h3>The oldest and youngest age groups were least likely to use online GP services</h3>
+  <h3>Patients aged 75 and over are the least likely to use online GP services over all</h3>
 </div>
-Over 75s are 12% less likely to use online services, with 68% not using any online GP service in the last 12 months.
+The over 75s are 12% less likely to use online services than average, with more than two thirds (68%) having not using any online GP service in the last 12 months [<a href="https://gp-patient.co.uk/">2</a>].
 
-<caption>Figure 3. Online GP service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</caption>
+<strong>Figure 3.</strong> Online GP service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.
+
 {% include online_activities_75.html %}
 
-Interestingly, 16-24s were second least likely to use online GP services, with 41% using an online service in the last 12 months (compared with 44% nationally).
+Interestingly, 16-24s were second least likely to use online GP services, with 41% using an online service in the last 12 months (compared with 44% nationally) [<a href="https://gp-patient.co.uk/">2</a>].
+
+<strong>Figure 4.</strong> Online GP service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.
 
 {% include online_activities_25.html %}
 
-<p><b>Figure 4.</b> Online GP service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
-
 #### Why aren't patients aged 75+ using online GP services?
 
-In a [recent report on digital inclusion](https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf), Age UK found that 42% of aged 75 and over do not use the internet.
+In a recent report on digital inclusion, Age UK found that 42% of aged 75 and over do not use the internet [<a href="https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf">6</a>].
 
-Furthermore, a lack of digital skills among the over 75+ age group (79%) was the most common reason for not using the internet. The next most common reasons were a lack of trust in the internet (39%) and not having good enough access to equipment and/or broadband (30%).
+Furthermore, a lack of digital skills among the over 75+ age group (79%) was the most common reason for not using the internet. The next most common reasons were a lack of trust in the internet (39%) and not having good enough access to equipment and/or broadband (30%) [<a href="https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf">6</a>].
 
-Ofcom's [Digital Exclusion Survey](https://www.ofcom.org.uk/__data/assets/pdf_file/0025/217834/adults-media-use-and-attitudes-report-2020-21.pdf) also found that 18% of digitally excluded adults aged 75 and over would be willing to go online to access health services.
+Ofcom's Digital Exclusion survey also found that 18% of digitally excluded adults aged 75 and over would be willing to go online to access health services [<a href="https://www.ofcom.org.uk/__data/assets/pdf_file/0025/217834/adults-media-use-and-attitudes-report-2020-21.pdf">7</a>].
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -185,16 +186,16 @@ Ofcom's [Digital Exclusion Survey](https://www.ofcom.org.uk/__data/assets/pdf_fi
 
 <div class="nhsuk-inset-text">
   <span class="nhsuk-u-visually-hidden">Key finding: </span>
-  <h3>Using GP practice websites is getting slightly harder year on year, particularly for those aged 75 and over</h3>
+  <h3>Patients are finding it more difficult to use their GP practice website, particularly for those aged 75 and over</h3>
 </div>
+
+A quarter (25%) of patients who used their GP practice's website found that it was 'not easy' to look for information or access services, compared with 22% in 2018. This increase was sharper for those aged 75 and over [<a href="https://gp-patient.co.uk/">2</a>].
+
+<strong>Figure 5.</strong> The proportion of survey respondents aged 75 and over that found it 'not easy' to use their GP practice's website to look for information or access services (where 'Not easy' = 'Not very easy' + 'Not at all easy') Source: GP Patient Survey 2021.
 
 {% include ease_of_use.html %}
 
-<p><b>Figure 5.</b> The proportion of survey respondents aged 75 and over that found it 'not easy' to use their GP practice's website to look for information or access services (where 'Not easy' = 'Not very easy' + 'Not at all easy') Source: GP Patient Survey 2021.</p>
-
-A quarter (25%) of patients who used their GP practice's website say it was 'not easy' to look for information or access services on the website, compared with 22% in 2018.
-
-Patients with a learning disability are twice as likely to find GP practice websites 'not at all easy" to use than patients who do not have a learning disability.
+Furthermore, those patients with learning disabilities found it significatly more difficult (31% responded 'not easy') to look for information or access services on their GP website [<a href="https://gp-patient.co.uk/">2</a>].
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -214,4 +215,12 @@ Moving forward, accessible, inclusive, and personalised healthcare services will
 
 [2] Ipsos MORI (2021). "_GP Patient Survey 2021_". The survey contains data collected from patients aged 16+ registered with a GP practice in England. Available online [[Link](https://gp-patient.co.uk/)].
 
-[3] ONS (2021). "_Corona virus and the social impacts on Great Britain_". Note: the ONS Glossary of what is considered an underlying health condition may be different to how the GP Patient Survey 2021 defines a long-term health condition Available online [[Link](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary)].
+[3] NHS Digital (2020). "_Appointments in General Practice_". Available online [[Link](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020")]
+
+[4] ONS (2021). "_Corona virus and the social impacts on Great Britain_". Available online [[Link](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/)].
+
+[5] ONS (2021). "_Corona virus and the social impacts on Great Britain_". Note: the ONS Glossary of what is considered an underlying health condition may be different to how the GP Patient Survey 2021 defines a long-term health condition. Available online [[Link](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary)].
+
+[6] Age UK (2021). "_Digital inclusion and older people – how have things changed in a Covid-19 world?_". Available online [[Link](https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf)].
+
+[7] Ofcom (2021). "_Adults’ Media Use and Attitudes report 2020/2021_". Available online [[Link](https://www.ofcom.org.uk/__data/assets/pdf_file/0025/217834/adults-media-use-and-attitudes-report-2020-21.pdf)].
