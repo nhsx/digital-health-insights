@@ -150,7 +150,7 @@ Ordering repeat prescriptions was the most popular activity among those who used
   <span class="nhsuk-u-visually-hidden">Key finding: </span>
   <h3>Patients with long term health conditions used online GP services 13% more than patients without long term conditions</h3>
 </div>
-Patients with a long term condition were also more than twice as likely to order repeat prescriptions, 4% more likely to access their medical records online and 2% more likely to book appointments online [<a href="https://gp-patient.co.uk/">2</a>].
+Patients with a long-term condition were also more than twice as likely to order repeat prescriptions, 4% more likely to access their medical records online and 2% more likely to book appointments online [<a href="https://gp-patient.co.uk/">2</a>].
 
 <strong>Figure 2.</strong> Online GP service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.
 
@@ -195,7 +195,7 @@ A quarter (25%) of patients who used their GP practice's website found that it w
 
 {% include ease_of_use.html %}
 
-Furthermore, those patients with learning disabilities found it significatly more difficult (31% responded 'not easy') to look for information or access services on their GP website [<a href="https://gp-patient.co.uk/">2</a>].
+Furthermore, those patients with learning disabilities found it significantly more difficult (31% responded 'not easy') to look for information or access services on their GP website [<a href="https://gp-patient.co.uk/">2</a>].
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
