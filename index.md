@@ -142,7 +142,8 @@ Ordering repeat prescriptions was the most popular activity among those who used
 </table>
 
 <div class="nhsuk-inset-text">
-  <p>Patients with long term health conditions used online GP services 13% more than patients without long term conditions</p>
+  <span class="nhsuk-u-visually-hidden">Key finding: </span>
+  <h3>Patients with long term health conditions used online GP services 13% more than patients without long term conditions</h3>
 </div>
 
 ### Patients with long term health conditions used online GP services 13% more than patients without long term conditions
