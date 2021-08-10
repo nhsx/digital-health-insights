@@ -6301,7 +6301,7 @@ b {
  */
 .nhsuk-inset-text {
   /* [1] */
-  max-width: 100em;
+  /* max-width: 1000em;
   /* [2] */
   margin-bottom: 40px;
   margin-top: 40px;
