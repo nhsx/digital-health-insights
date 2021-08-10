@@ -110,7 +110,7 @@ While most patients would be comfortable with an online appointment, 64% of UK p
 Ordering repeat prescriptions was the most popular activity among those who used an online service (26%), followed by booking an appointment online (19%). Yet, online GP services haven't fully taken off. More than half (56%) of all patients surveyed have not used any online service.
 
 <table>
-  <caption>All patients</caption>
+  <caption>Table 1. Patients' use of online GP services in the last 12 months</caption>
   <thead>
     <tr>
       <th scope="col">Online Activity</th>
@@ -140,6 +140,10 @@ Ordering repeat prescriptions was the most popular activity among those who used
     </tr>
   </tbody>
 </table>
+
+<div class="nhsuk-inset-text">
+  <p>Patients with long term health conditions used online GP services 13% more than patients without long term conditions</p>
+</div>
 
 ### Patients with long term health conditions used online GP services 13% more than patients without long term conditions
 
