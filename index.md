@@ -166,7 +166,7 @@ The over 75s are 12% less likely to use online services than average, with more 
 
 {% include online_activities_75.html %}
 
-Interestingly, 16-24s were second least likely to use online GP services, with 41% using an online service in the last 12 months (compared with 44% nationally) [<a href="https://gp-patient.co.uk/">2</a>].
+<p>Interestingly, 16-24s were second least likely to use online GP services, with 41% using an online service in the last 12 months (compared with 44% nationally) [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
 <strong>Figure 4.</strong> Online GP service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.
 
