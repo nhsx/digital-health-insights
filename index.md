@@ -94,7 +94,7 @@ For the first time, more remote appointments took place in April 2020 than face-
 
 {% include remote_appts.html %}
 
-#### How do patients feel about remote appointments?
+<h4>How do patients feel about remote appointments?</h4>
 
 Patients are more likely to say their needs were met in their last face-to-face appointment (95%) than in their last remote appointment (92%) [<a href="https://gp-patient.co.uk/">2</a>].
 
@@ -172,7 +172,7 @@ Interestingly, 16-24s were second least likely to use online GP services, with 4
 
 {% include online_activities_25.html %}
 
-#### Why aren't patients aged 75+ using online GP services?
+<h4>Why aren't patients aged 75+ using online GP services?</h4>
 
 In a recent report on digital inclusion, Age UK found that 42% of aged 75 and over do not use the internet [<a href="https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf">6</a>].
 
