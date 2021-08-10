@@ -77,7 +77,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 <h2 id="Introduction">Introduction</h2>
 <p>As more people use digital tools and websites to manage their physical (37%) and mental health (25%) in 2021 [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">1</a>], access to quality online health services is crucial. Given that 89% of consumers use digital tools for online banking and 60% for accessing local council information [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">1</a>], there is great potential to expand digital health services in the UK.</p>
 
-<p>Our analysis builds on the GP Patient Survey 2021 — a national survey of patients’ experiences of general practice — to shed light on the use of--and barriers to--accessing online general practice services in England since the coronavirus pandemic [<a href="https://gp-patient.co.uk/">2</a>].</p>
+<p>Our analysis builds on the GP Patient Survey 2021 — a national survey of patients’ experiences of general practice — to shed light on the use of, and barriers to, accessing online general practice services in England since the coronavirus pandemic [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -163,8 +163,8 @@ Moving forward, accessible, inclusive, and personalised healthcare services will
 
 <h3 id="References">References</h3>
 
-[1] Lloyds (2021). "_Consumer Digital Index_". Available online at: [[Link](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html)].
+[1] Lloyds (2021). "_Consumer Digital Index_". Available online [[Link](https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html)].
 
-[2] Ipsos MORI (2021). "_GP Patient Survey 2021_". Available online at: [[Link](https://gp-patient.co.uk/)].
+[2] Ipsos MORI (2021). "_GP Patient Survey 2021_". The survey contains data collected from patients aged 16+ registered with a GP practice in England. Available online [[Link](https://gp-patient.co.uk/)].
 
-[3] ONS (2021). "_Corona virus and the social impacts on Great Britain_". Note: the ONS Glossary of what is considered an underlying health condition may be different to how the GP Patient Survey 2021 defines a long-term health condition Available online at: [[Link](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary)].
+[3] ONS (2021). "_Corona virus and the social impacts on Great Britain_". Note: the ONS Glossary of what is considered an underlying health condition may be different to how the GP Patient Survey 2021 defines a long-term health condition Available online [[Link](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary)].
