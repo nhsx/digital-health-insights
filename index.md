@@ -45,7 +45,8 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<div class="nhsuk-width-container">
+<div class="nhsuk-grid-row">
+<div class="nhsuk-grid-column-one-third">
   <nav class="nhsuk-contents-list" role="navigation" aria-label="Sections in this Article">
   <h2 class="nhsuk-u-visually-hidden">Contents</h2>
   <ol class="nhsuk-contents-list__list">
@@ -73,6 +74,8 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
   </ol>
   </nav>
 </div>
+
+<div class="nhsuk-grid-column-two-thirds">
 
 <h2 id="Introduction">Introduction</h2>
 <p>As more people use digital tools and websites to manage their physical (37%) and mental health (25%) in 2021 [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">1</a>], access to quality online health services is more important now than ever. Given that 89% of consumers use digital tools for online banking and 60% for accessing local council information [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">1</a>], there is great potential to expand digital health services in the UK.</p>
@@ -224,3 +227,6 @@ Moving forward, accessible, inclusive, and personalised healthcare services will
 [6] Age UK (2021). "_Digital inclusion and older people – how have things changed in a Covid-19 world?_". Available online [[Link](https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf)].
 
 [7] Ofcom (2021). "_Adults’ Media Use and Attitudes report 2020/2021_". Available online [[Link](https://www.ofcom.org.uk/__data/assets/pdf_file/0025/217834/adults-media-use-and-attitudes-report-2020-21.pdf)].
+
+</div>
+</div>
