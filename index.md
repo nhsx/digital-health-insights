@@ -87,7 +87,9 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 {% include remote_appts.html %}
 
-<p><strong>Figure 1.</strong> Proportion of appointment types betweeen survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.</p>
+<div class="nhsuk-hint" id="more-detail-hint">
+    <strong>Figure 1.</strong> Type of appointment attended by survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.
+</div>
 
 For the first time in history, [more remote appointments](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020) took place in April 2020 than face-to-face appointments.
 
