@@ -113,19 +113,23 @@ Ordering repeat prescriptions was the most popular activity among those who used
 
 {% include online_activities_ltc.html %}
 
-<p><b>Figure 3.</b> The proportion of online service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
+<p><b>Figure 2.</b> Online GP service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 Patients with a long term condition were also more than twice as likely to order repeat prescriptions, 4% more likely to access their medical records online and 2% more likely to book appointments online.
 
 ### The oldest and youngest age groups were least likely to use online GP services
 
-{% include online_activities_all.html %}
+{% include online_activities_75.html %}
 
-<p><b>Figure 3.</b> The proportion of online service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
+<p><b>Figure 3.</b> Online GP service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 Over 75s are 12% less likely to use online services, with 68% not using any online GP service in the last 12 months.
 
 Interestingly, 16-24s were second least likely to use online GP services, with 41% using an online service in the last 12 months (compared with 44% nationally).
+
+{% include online_activities_25.html %}
+
+<p><b>Figure 4.</b> Online GP service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 ### Why aren't patients aged 75+ using online GP services?
 
@@ -143,7 +147,7 @@ Ofcom's [Digital Exclusion Survey](https://www.ofcom.org.uk/__data/assets/pdf_fi
 
 {% include ease_of_use.html %}
 
-<p><b>Figure 4.</b> The proportion of survey respondents aged 75 and over that found it 'not easy' to use their GP practice's website to look for information or access services (where 'Not easy' = 'Not very easy' + 'Not at all easy') Source: GP Patient Survey 2021.</p>
+<p><b>Figure 5.</b> The proportion of survey respondents aged 75 and over that found it 'not easy' to use their GP practice's website to look for information or access services (where 'Not easy' = 'Not very easy' + 'Not at all easy') Source: GP Patient Survey 2021.</p>
 
 A quarter (25%) of patients who used their GP practice's website say it was 'not easy' to look for information or access services on the website, compared with 22% in 2018.
 
