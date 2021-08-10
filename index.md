@@ -88,11 +88,11 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
   <h3>Remote appointments are now as common as in person appointments</h3>
 </div>
 
+For the first time in history, [more remote appointments](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020) took place in April 2020 than face-to-face appointments.
+
 {% include remote_appts.html %}
 
 <strong>Figure 1.</strong> Type of appointment attended by survey respondents, where 'Remote' includes both Telephone and Online appointments. Source: GP Patient Survey 2021.
-
-For the first time in history, [more remote appointments](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020) took place in April 2020 than face-to-face appointments.
 
 In previous surveys, face-to-face appointments were the dominant appointment type, making up 90% of the patient appointments. In 2021, however, 50% of patients reported having a remote appointment (compared with 10% in 2020).
 
@@ -153,10 +153,11 @@ Ordering repeat prescriptions was the most popular activity among those who used
 </div>
 Patients with a long term condition were also more than twice as likely to order repeat prescriptions, 4% more likely to access their medical records online and 2% more likely to book appointments online.
 
-<table>
-<caption>Figure 2. Online GP service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</caption>
+<strong>Figure 2.</strong>
+
 {% include online_activities_ltc.html %}
-</table>
+
+Online GP service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.
 
 <div class="nhsuk-inset-text">
   <span class="nhsuk-u-visually-hidden">Key finding: </span>
