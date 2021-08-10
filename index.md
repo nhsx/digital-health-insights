@@ -217,26 +217,26 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 <h3 id="References">References</h3>
 
 <p>
-[1] Lloyds (2021). "_Consumer Digital Index_". Available online [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">Link</a>].
+<strong>[1] Lloyds (2021).</strong> "<em>Consumer Digital Index</em>". Available online [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">Link</a>].
 </p>
 
 <p>
-[2] Ipsos MORI (2021). "_GP Patient Survey 2021_". The survey contains data collected from patients aged 16+ registered with a GP practice in England. Available online [<a href="https://gp-patient.co.uk/">Link</a>].
+[2] <strong>Ipsos MORI (2021)</strong>. "<em>GP Patient Survey 2021</em>". The survey contains data collected from patients aged 16+ registered with a GP practice in England. Available online [<a href="https://gp-patient.co.uk/">Link</a>].
 </p>
 <p>
-[3] NHS Digital (2020). "_Appointments in General Practice_". Available online [<a href="https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020">Link</a>].
+[<strong>3</strong>] NHS Digital (2020). "<em>Appointments in General Practice</em>". Available online [<a href="https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020">Link</a>].
 </p>
 <p>
-[4] ONS (2021). "_Corona virus and the social impacts on Great Britain_". Available online [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/">Link</a>].
+[4] ONS (2021). "<em>Corona virus and the social impacts on Great Britain</em>". Available online [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/">Link</a>].
 </p>
 <p>
-[5] ONS (2021). "_Corona virus and the social impacts on Great Britain_". Note: the ONS Glossary of what is considered an underlying health condition may be different to how the GP Patient Survey 2021 defines a long-term health condition. Available online [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary">Link</a>].
+[5] ONS (2021). "<em>Corona virus and the social impacts on Great Britain</em>". Note: the ONS Glossary of what is considered an underlying health condition may be different to how the GP Patient Survey 2021 defines a long-term health condition. Available online [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary">Link</a>].
 </p>
 <p>
-[6] Age UK (2021). "_Digital inclusion and older people – how have things changed in a Covid-19 world?_". Available online [<a href="https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf">Link</a>].
+[6] Age UK (2021). "<em>Digital inclusion and older people – how have things changed in a Covid-19 world?</em>". Available online [<a href="https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf">Link</a>].
 </p>
 <p>
-[7] Ofcom (2021). "_Adults’ Media Use and Attitudes report 2020/2021_". Available online [<a href="https://www.ofcom.org.uk/__data/assets/pdf_file/0025/217834/adults-media-use-and-attitudes-report-2020-21.pdf">Link</a>].
+[7] Ofcom (2021). "<em>Adults’ Media Use and Attitudes report 2020/2021</em>". Available online [<a href="https://www.ofcom.org.uk/__data/assets/pdf_file/0025/217834/adults-media-use-and-attitudes-report-2020-21.pdf">Link</a>].
 </p>
 
 </div>
