@@ -25,10 +25,10 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
   <div class="nhsuk-care-card__content">
   
   <ul>
-      <li><b>Remote appointments are now as common as face-to-face appointments.</b>  While most patients are comfortable with online appointments, many would still prefer face-to-face appointments in the future.</li>
-      <li><b>Almost half (44%) of patients have used an online GP service in the last 12 months.  </b> Patients will long term health conditions are more likely than average to use online services.</li>
-      <li><b>Patients aged 75 and over are the least likely to use online GP services over all,</b> with more that two thirds (68%) not using any online service in the last 12 months. </li>
-      <li><b>In terms of web accessability, patients are finding it more difficult to use their GP practice website</b>, particularly for those aged 75 and over.</li>
+      <p><b>Remote appointments are now as common as face-to-face appointments.</b>  While most patients are comfortable with online appointments, many would still prefer face-to-face appointments in the future.</p>
+      <p><b>Almost half (44%) of patients have used an online GP service in the last 12 months.  </b> Patients will long term health conditions are more likely than average to use online services.</p>
+      <p><b>Patients aged 75 and over are the least likely to use online GP services over all,</b> with more that two thirds (68%) not using any online service in the last 12 months. </p>
+      <p><b>In terms of web accessability, patients are finding it more difficult to use their GP practice website</b>, particularly for those aged 75 and over.</p>
     </ul>
   </div>
 </div>
@@ -52,25 +52,25 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
   <ol class="nhsuk-contents-list__list">
         <li class="nhsuk-contents-list__item" aria-current="page">
           <span class="nhsuk-contents-list__current">Table of Contents</span>
-        </li>
+        </p>
         <li class="nhsuk-contents-list__item">
           <a class="nhsuk-contents-list__link" href="#Introduction">Introduction</a>
-        </li>
+        </p>
         <li class="nhsuk-contents-list__item">
           <a class="nhsuk-contents-list__link" href="#Appointments">Appointments</a>
-        </li>
+        </p>
         <li class="nhsuk-contents-list__item">
           <a class="nhsuk-contents-list__link" href="#Online Services">Online Services</a>
-        </li>
+        </p>
         <li class="nhsuk-contents-list__item">
           <a class="nhsuk-contents-list__link" href="#Web Accessability">Web Accessability</a>
-        </li>
+        </p>
         <li class="nhsuk-contents-list__item">
           <a class="nhsuk-contents-list__link" href="#Conclusion">Conclusion</a>
-        </li>
+        </p>
         <li class="nhsuk-contents-list__item">
           <a class="nhsuk-contents-list__link" href="#References">References</a>
-        </li>
+        </p>
   </ol>
   </nav>
 </div>
@@ -216,15 +216,13 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 <h3 id="References">References</h3>
 
-<ul>
-<li>[1] Lloyds (2021). "_Consumer Digital Index_". Available online [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">Link</a>].</li>
-<li>[2] Ipsos MORI (2021). "_GP Patient Survey 2021_". The survey contains data collected from patients aged 16+ registered with a GP practice in England. Available online [<a href="https://gp-patient.co.uk/">Link</a>].</li>
-<li>[3] NHS Digital (2020). "_Appointments in General Practice_". Available online [<a href="https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020"">Link</a>].</li>
-<li>[4] ONS (2021). "_Corona virus and the social impacts on Great Britain_". Available online [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/">Link</a>].</li>
-<li>[5] ONS (2021). "_Corona virus and the social impacts on Great Britain_". Note: the ONS Glossary of what is considered an underlying health condition may be different to how the GP Patient Survey 2021 defines a long-term health condition. Available online [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary">Link</a>].</li>
-<li>[6] Age UK (2021). "_Digital inclusion and older people – how have things changed in a Covid-19 world?_". Available online [<a href="https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf">Link</a>].</li>
-<li>[7] Ofcom (2021). "_Adults’ Media Use and Attitudes report 2020/2021_". Available online [<a href="https://www.ofcom.org.uk/__data/assets/pdf_file/0025/217834/adults-media-use-and-attitudes-report-2020-21.pdf">Link</a>].</li>
-</ul>
+<p>[1] Lloyds (2021). "_Consumer Digital Index_". Available online [<a href="https://www.lloydsbank.com/banking-with-us/whats-happening/consumer-digital-index.html">Link</a>].</p>
+<p>[2] Ipsos MORI (2021). "_GP Patient Survey 2021_". The survey contains data collected from patients aged 16+ registered with a GP practice in England. Available online [<a href="https://gp-patient.co.uk/">Link</a>].</p>
+<p>[3] NHS Digital (2020). "_Appointments in General Practice_". Available online [<a href="https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2020">Link</a>].</p>
+<p>[4] ONS (2021). "_Corona virus and the social impacts on Great Britain_". Available online [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/">Link</a>].</p>
+<p>[5] ONS (2021). "_Corona virus and the social impacts on Great Britain_". Note: the ONS Glossary of what is considered an underlying health condition may be different to how the GP Patient Survey 2021 defines a long-term health condition. Available online [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary">Link</a>].</p>
+<p>[6] Age UK (2021). "_Digital inclusion and older people – how have things changed in a Covid-19 world?_". Available online [<a href="https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf">Link</a>].</p>
+<p>[7] Ofcom (2021). "_Adults’ Media Use and Attitudes report 2020/2021_". Available online [<a href="https://www.ofcom.org.uk/__data/assets/pdf_file/0025/217834/adults-media-use-and-attitudes-report-2020-21.pdf">Link</a>].</p>
 
 </div>
 </div>
