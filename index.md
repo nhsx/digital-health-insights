@@ -196,7 +196,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 <p>A quarter (25%) of patients who used their GP practice's website found that it was 'not easy' to look for information or access services, compared with 22% in 2018 [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
-<p>However, those patients with learning disabilities found have consitantly found it more difficult (31% responded 'not easy' in 2021) to look for information or access services on their GP website [<a href="https://gp-patient.co.uk/">2</a>].</p>
+<p>While those with hearing and/or sight loss found it more difficult on average (28% in 2021) to look for information or access services on their GP website, patients with learning disabilities have consitantly been finding it the most difficult (31% responded 'not easy' in 2021) [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
 <p><strong>Figure 5.</strong> The proportion of survey respondents with learning disabilities that found it 'not easy' to use their GP practice's website to look for information or access services (where 'Not easy' = 'Not very easy' + 'Not at all easy'). Source: GP Patient Survey 2021.</p>
 
