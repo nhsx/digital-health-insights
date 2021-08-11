@@ -28,7 +28,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
       <li><b>Remote appointments are now as common as face-to-face appointments.</b>  While most patients are comfortable with online appointments, many would still prefer face-to-face appointments in the future.</li>
       <li><b>Almost half (44%) of patients have used an online GP service in the last 12 months.  </b> Patients will long term health conditions are more likely than average to use online services.</li>
       <li><b>Patients aged 75 and over are the least likely to use online GP services over all,</b> with more that two thirds (68%) not using any online service in the last 12 months. </li>
-      <li><b>In terms of web accessability, patients are finding it more difficult to use their GP practice website</b>, particularly for those aged 75 and over.</li>
+      <li><b>In terms of web accessability, patients are finding it more difficult to use their GP practice website</b>, learning disabilities.</li>
     </ul>
   </div>
 </div>
@@ -191,16 +191,16 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 <div class="nhsuk-inset-text">
   <span class="nhsuk-u-visually-hidden">Key finding: </span>
-  <h3>Patients are finding it more difficult to use their GP practice website, particularly for those aged 75 and over</h3>
+  <h3>Patients are finding it more difficult to use their GP practice website, particularly for those with learning disabilities</h3>
 </div>
 
-<p>A quarter (25%) of patients who used their GP practice's website found that it was 'not easy' to look for information or access services, compared with 22% in 2018. This increase was sharper for those aged 75 and over [<a href="https://gp-patient.co.uk/">2</a>].</p>
+<p>A quarter (25%) of patients who used their GP practice's website found that it was 'not easy' to look for information or access services, compared with 22% in 2018 [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
-<p><strong>Figure 5.</strong> The proportion of survey respondents aged 75 and over that found it 'not easy' to use their GP practice's website to look for information or access services (where 'Not easy' = 'Not very easy' + 'Not at all easy'). Source: GP Patient Survey 2021.</p>
+<p>However, those patients with learning disabilities found have consitantly found it more difficult (31% responded 'not easy' in 2021) to look for information or access services on their GP website [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
-{% include ease_of_use.html %}
+<p><strong>Figure 5.</strong> The proportion of survey respondents with learning disabilities that found it 'not easy' to use their GP practice's website to look for information or access services (where 'Not easy' = 'Not very easy' + 'Not at all easy'). Source: GP Patient Survey 2021.</p>
 
-<p>Furthermore, those patients with learning disabilities found it significantly more difficult (31% responded 'not easy') to look for information or access services on their GP website [<a href="https://gp-patient.co.uk/">2</a>].</p>
+{% include ease_of_use_new.html %}
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
