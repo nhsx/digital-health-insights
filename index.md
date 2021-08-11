@@ -26,9 +26,9 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
   
   <ul>
       <li><b>Remote appointments are now as common as face-to-face appointments.</b>  While most patients are comfortable with online appointments, many would still prefer face-to-face appointments in the future.</li>
-      <li><b>Almost half (44%) of patients have used an online GP service in the last 12 months.  </b> Patients will long term health conditions are more likely than average to use online services.</li>
-      <li><b>Patients aged 75 and over are the least likely to use online GP services over all,</b> with more that two thirds (68%) not using any online service in the last 12 months. </li>
-      <li><b>In terms of web accessability, patients are finding it more difficult to use their GP practice website</b>, particularly for those with learning disabilities.</li>
+      <li><b>Almost half (44%) of patients have used an online GP service in the last 12 months.  </b> Patients with long term health conditions are more likely than average to use online services.</li>
+      <li><b>Patients aged 75 and over are the least likely to use online GP services overall,</b> with more than two thirds (68%) not using any online service in the last 12 months. </li>
+      <li><b>In terms of web accessibility, patients are finding it more difficult to use their GP practice website</b>, particularly for those with learning disabilities.</li>
     </ul>
   </div>
 </div>
@@ -63,7 +63,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
           <a class="nhsuk-contents-list__link" href="#Online Services">Online Services</a>
         </li>
         <li class="nhsuk-contents-list__item">
-          <a class="nhsuk-contents-list__link" href="#Web Accessability">Web Accessability</a>
+          <a class="nhsuk-contents-list__link" href="#Web Accessibility">Web Accessibility</a>
         </li>
         <li class="nhsuk-contents-list__item">
           <a class="nhsuk-contents-list__link" href="#Conclusion">Conclusion</a>
@@ -156,7 +156,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 <p>Patients with a long-term condition were also more than twice as likely to order repeat prescriptions, 4% more likely to access their medical records online and 2% more likely to book appointments online [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
-<p><strong>Figure 2.</strong> Online GP service use between survey respondents (with and without long-term conditions) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
+<p><strong>Figure 2.</strong> Online GP service use between survey respondents (with and without long-term conditions) that used an online service within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 {% include online_activities_ltc.html %}
 
@@ -167,19 +167,19 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 <p>The over 75s are 12% less likely to use online services than average, with more than two thirds (68%) having not using any online GP service in the last 12 months [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
-<p><strong>Figure 3.</strong> Online GP service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
+<p><strong>Figure 3.</strong> Online GP service use between survey respondents (by age group) that used an online service within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 {% include online_activities_75.html %}
 
 <p>Interestingly, 16-24s were second least likely to use online GP services, with 41% using an online service in the last 12 months (compared with 44% nationally) [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
-<p><strong>Figure 4.</strong> Online GP service use between survey respondents (by age group) that used an online services within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
+<p><strong>Figure 4.</strong> Online GP service use between survey respondents (by age group) that used an online service within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
 {% include online_activities_25.html %}
 
 <h4>Why aren't patients aged 75+ using online GP services?</h4>
 
-<p>In a recent report on digital inclusion, Age UK found that 42% of aged 75 and over do not use the internet [<a href="https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf">6</a>].</p>
+<p>In a recent report on digital inclusion, Age UK found that 42% of patients aged 75 and over do not use the internet [<a href="https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf">6</a>].</p>
 
 <p>Furthermore, a lack of digital skills among the over 75+ age group (79%) was the most common reason for not using the internet. The next most common reasons were a lack of trust in the internet (39%) and not having good enough access to equipment and/or broadband (30%) [<a href="https://www.ageuk.org.uk/globalassets/age-uk/documents/reports-and-publications/reports-and-briefings/active-communities/digital-inclusion-in-the-pandemic-final-march-2021.pdf">6</a>].</p>
 
@@ -187,7 +187,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<h2 id="Web Accessability">Web Accessability</h2>
+<h2 id="Web Accessibility">Web Accessibility</h2>
 
 <div class="nhsuk-inset-text">
   <span class="nhsuk-u-visually-hidden">Key finding: </span>
@@ -196,7 +196,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 <p>A quarter (25%) of patients who used their GP practice's website found that it was 'not easy' to look for information or access services, compared with 22% in 2018 [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
-<p>While those with hearing and/or sight loss found it more difficult on average (28% in 2021) to look for information or access services on their GP website, patients with learning disabilities have consitantly been finding it the most difficult (31% responded 'not easy' in 2021) [<a href="https://gp-patient.co.uk/">2</a>].</p>
+<p>While those with hearing and/or sight loss found it more difficult on average (28% in 2021) to look for information or access services on their GP website, patients with learning disabilities have consistently  been finding it the most difficult (31% responded 'not easy' in 2021) [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
 <p><strong>Figure 5.</strong> The proportion of survey respondents with learning disabilities that found it 'not easy' to use their GP practice's website to look for information or access services (where 'Not easy' = 'Not very easy' + 'Not at all easy'). Source: GP Patient Survey 2021.</p>
 
