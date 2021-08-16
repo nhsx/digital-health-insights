@@ -6301,10 +6301,10 @@ b {
  */
 .nhsuk-inset-text {
   /* [1] */
-  max-width: 44em;
+  max-width: 100%;
   /* [2] */
-  margin-bottom: 40px;
-  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-top: 20px;
   padding: 16px;
   border-left: 8px solid #005eb8;
 }
@@ -6316,17 +6316,17 @@ b {
 }
 @media (min-width: 40.0625em) {
   .nhsuk-inset-text {
-    margin-bottom: 48px;
+    margin-bottom: 28px;
   }
 }
 @media (min-width: 40.0625em) {
   .nhsuk-inset-text {
-    margin-top: 48px;
+    margin-top: 28px;
   }
 }
 @media (min-width: 40.0625em) {
   .nhsuk-inset-text {
-    padding: 24px;
+    padding: 18px;
   }
 }
 @media print {
