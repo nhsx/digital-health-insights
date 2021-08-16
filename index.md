@@ -101,7 +101,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
 
 <p>Patients are more likely to say their needs were met in their last face-to-face appointment (95%) than in their last remote appointment (92%) [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
-<p>Research from the Office for National Statistics found that, in August 2020, 64% of people said they would be ‘comfortable’ or ‘very comfortable’ attending an online appointment with a health professional [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/">4</a>]. However, so over 70 (53%) or with an underlying health condition (57%) weren’t as comfortable with online appointments [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary">5</a>].</p>
+<p>Research from the Office for National Statistics found that, in August 2020, 64% of people said they would be ‘comfortable’ or ‘very comfortable’ attending an online appointment with a health professional [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/">4</a>]. However, those over 70 (53%) or with an underlying health condition (57%) weren’t as comfortable with online appointments [<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4september2020#glossary">5</a>].</p>
 
 <!-- ***need link and ref*** While most patients would be comfortable with an online appointment, 64% of UK patients still would [prefer in-person consultations in the future](https://docs.google.com/document/d/1qJ-z2q88IVDCgZLhWOhbbZa8Kj3_OMrU8XxBBcWvPes/edit#). -->
 
@@ -165,7 +165,7 @@ Mary Amanuel & Craig Shenton (<a href="https://www.nhsx.nhs.uk/key-tools-and-inf
   <h3>Patients aged 75 and over are the least likely to use online GP services over all</h3>
 </div>
 
-<p>The over 75s are 12% less likely to use online services than average, with more than two thirds (68%) having not using any online GP service in the last 12 months [<a href="https://gp-patient.co.uk/">2</a>].</p>
+<p>The over 75s are 12% less likely to use online services than average, with more than two thirds (68%) having not used any online GP service in the last 12 months [<a href="https://gp-patient.co.uk/">2</a>].</p>
 
 <p><strong>Figure 3.</strong> Online GP service use between survey respondents (by age group) that used an online service within the last 12 months (as of March 2021). Source: GP Patient Survey 2021.</p>
 
